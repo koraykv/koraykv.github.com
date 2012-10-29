@@ -1,0 +1,95 @@
+
+body {
+  font-family: Verdana,Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+  line-height: 150%;
+  background-color: #fff;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  display: block;
+  padding-bottom: 50px;
+}
+
+#heading{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  clear: both;
+}
+#heading img{
+  float: left;
+  margin-right: -100px;
+}
+#heading h1{
+  text-align: center;
+  font-size: 2em;
+  color: #777;
+  padding: 0.3em;
+}
+
+#nav
+{
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+#nav ul
+{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  height: auto;
+  overflow: hidden;
+  width: 640px;
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  margin-bottom: 3em;
+
+}
+
+#nav ul li
+{
+  display:inline;
+  width: 120px;
+}
+
+#nav ul a
+{
+  font-family: helvetica,arial,sans-serif;
+  font-size: 16px;
+  /*font-weight: bold;*/
+  line-height: 36px;
+  text-decoration: none;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+
+  -webkit-transition: .2s all ease-in-out;
+  -moz-transition: .2s all ease-in-out;
+  transition: .2s all ease-in-out;
+
+  margin: 10px 4px;
+  display: inline-block;
+  /*color: #46483e;*/
+  /*background-color: #ff7600;*/
+  border: solid 1px #fff;
+  border-radius: 5px;
+  width: 120px;
+  text-align: center;
+  color: #050505;
+}
+#nav ul a:hover {
+  text-decoration: none;
+  /*background-color: #aab293;*/
+  box-shadow:0 0px 10px 2px #dddddd inset;/*, 0 0 40px rgba(0, 0, 0, 0.1) inset;*/
+}
+
+#home .home,
+#research .research,
+#code .code,
+#publications .publications
+{
+/*  background-color: #dddddd;*/
+  border: solid 1px #aaa;
+}

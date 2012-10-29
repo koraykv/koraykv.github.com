@@ -1,0 +1,19 @@
+
+<html>
+<link rel="stylesheet" href="style/style.css" type="text/css"/>
+<head>
+	<title>{{ page.title }}</title>
+</head>
+<body id="{{ page.id }}">
+
+<div id="nav">
+	{% include nav.html %}
+</div>
+
+
+<div id="page">
+	{{ content }}
+</div>
+
+</body>
+</html>
