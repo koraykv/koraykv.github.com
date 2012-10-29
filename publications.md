@@ -35,10 +35,10 @@ id: publications
 <a href="#" onclick="toggle_visibility('bib-kumar-icml-12');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-kumar-icml-12" > 
-<pre><code>@inproceedings{bib-kumar-icml-12,  
-title = "A Binary Classification Framework for Two Stage Multiple Kernel Learning",  
-author = "Abhishek Kumar and Alexandru Niculescu-Mizil and Koray Kavukcuoglu and Hal Daume III", 
-booktitle = "Proceedings of the International Conference on Machine Learning", 
+<pre><code>@inproceedings{bib-kumar-icml-12,  
+title = "A Binary Classification Framework for Two Stage Multiple Kernel Learning",  
+author = "Abhishek Kumar and Alexandru Niculescu-Mizil and Koray Kavukcuoglu and Hal Daume III", 
+booktitle = "Proceedings of the International Conference on Machine Learning", 
 year = "2012"}
 </code></pre></div> 
 </li> 
@@ -51,12 +51,12 @@ year = "2012"}
 <a href="#" onclick="toggle_visibility('bib-collobert-jmlr-11');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-collobert-jmlr-11" > 
-<pre><code>@article{bib-collobert-jmlr-11,  
-title = "Natural Language Processing (Almost) from Scratch",  
-author = "R. Collobert and J. Weston and L. Bottou and M. Karlen and K. Kavukcuoglu and P. Kuksa", 
-journal = "Journal of Machine Learning Research", 
-volume = "12", 
-pages = "2493--2537", 
+<pre><code>@article{bib-collobert-jmlr-11,  
+title = "Natural Language Processing (Almost) from Scratch",  
+author = "R. Collobert and J. Weston and L. Bottou and M. Karlen and K. Kavukcuoglu and P. Kuksa", 
+journal = "Journal of Machine Learning Research", 
+volume = "12", 
+pages = "2493--2537", 
 year = "2011"}
 </code></pre></div> 
 </li> 
