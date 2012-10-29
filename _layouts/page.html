@@ -2,8 +2,28 @@
 <html>
 <link rel="stylesheet" href="style/style.css" type="text/css"/>
 <head>
-	<title>{{ page.title }}</title>
+	<title>{{ page.title }} - koray kavukcuoglu</title>
 </head>
+
+<script type="text/javascript"> 
+     function toggle_visibility(id) { 
+        var e = document.getElementById(id); 
+        if(e.style.display == 'block') 
+           e.style.display = 'none'; 
+        else 
+           e.style.display = 'block';
+     }
+ </script> 
+ 
+ <style type="text/css"> 
+ 
+ div.bibtex { 
+     display: none; 
+ } 
+ 
+ </style>
+
+ 
 <body id="{{ page.id }}">
 
 <div id="nav">

@@ -4,7 +4,7 @@ body {
   font-size: 0.8em;
   line-height: 150%;
   background-color: #fff;
-  width: 800px;
+  width: 640px;
   margin-left: auto;
   margin-right: auto;
   padding: 0;
@@ -12,6 +12,40 @@ body {
   padding-bottom: 50px;
 }
 
+h1,h2,h3{
+  color: #3f3f3f;
+}
+h1{
+  font-weight: normal;
+}
+
+h3{
+  /*font-weight: normal;*/
+  /*font-size: 1.3em;*/
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+a{
+  text-decoration: none;
+  color: #df0a0a;
+  /*font-weight: bold;*/
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+pre{
+  font-size: 1.5em;
+}
+
+.bibtex pre{
+  font-size: 1em;
+}
+hr{
+  margin-top:2em;
+  margin-bottom: 2em;
+}
 #heading{
   margin-left: auto;
   margin-right: auto;
@@ -29,13 +63,11 @@ body {
   padding: 0.3em;
 }
 
-#nav
-{
+#nav{
   margin-top: 2em;
   margin-bottom: 2em;
 }
-#nav ul
-{
+#nav ul{
   list-style-type:none;
   margin:0;
   padding:0;
@@ -48,14 +80,12 @@ body {
 
 }
 
-#nav ul li
-{
+#nav ul li{
   display:inline;
   width: 120px;
 }
 
-#nav ul a
-{
+#nav ul a{
   font-family: helvetica,arial,sans-serif;
   font-size: 16px;
   /*font-weight: bold;*/
@@ -92,4 +122,8 @@ body {
 {
 /*  background-color: #dddddd;*/
   border: solid 1px #aaa;
+}
+
+.bibli ul li{
+  margin-bottom: 10px;
 }
