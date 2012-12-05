@@ -13,7 +13,7 @@ id: publications
 <div id="yunlong-nips-12">Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park", <B>Learning the Dependency Structure of Latent Factors</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2012)</EM>, 2012.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/yunlong-nips-12.pdf">PDF (Coming Soon)</a>
+<a href="http://cs.nyu.edu/~koray/publis/yunlong-nips-12.pdf">PDF</a>
 <a href="#" onclick="toggle_visibility('bib-yunlong-nips-12');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-yunlong-nips-12" > 
