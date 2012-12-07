@@ -14,6 +14,7 @@ id: publications
  
 <br> 
 <a href="http://cs.nyu.edu/~koray/publis/yunlong-nips-12.pdf">PDF</a>
+<a href="http://cs.nyu.edu/~koray/publis/yunlong-nips-12-supp.pdf">Supplemetary Material</a>
 <a href="#" onclick="toggle_visibility('bib-yunlong-nips-12');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-yunlong-nips-12" > 
