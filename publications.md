@@ -10,7 +10,7 @@ id: publications
 <ul> 
 
 <li> 
-<div id="ronan-nntricks-2012">R. Collobert, K. Kavukcuoglu and C. Farabet. <B>Implementing Neural Networks Efficiently.</B> In <EM>Neural Networks: Tricks of the Trade, G. Montavon, G. Orr and K-R. Muller (Ed), Springer, 2012.</EM>, 2012.
+<div id="ronan-nntricks-2012">R. Collobert, K. Kavukcuoglu and C. Farabet. "<B>Implementing Neural Networks Efficiently.</B>", in <EM>Neural Networks: Tricks of the Trade, G. Montavon, G. Orr and K-R. Muller (Ed), Springer, 2012.</EM>, 2012.
  
 <br> 
 <a href="http://cs.nyu.edu/~koray/publis/ronan-nntricks-2012.pdf">PDF</a>
@@ -29,7 +29,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="yunlong-nips-12">Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park", <B>Learning the Dependency Structure of Latent Factors</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2012)</EM>, 2012.
+<div id="yunlong-nips-12">Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park, "<B>Learning the Dependency Structure of Latent Factors</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2012)</EM>, 2012.
  
 <br> 
 <a href="http://cs.nyu.edu/~koray/publis/yunlong-nips-12.pdf">PDF</a>
@@ -48,7 +48,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="kumar-icml-12"> Abhishek Kumar, Alexandru Niculescu-Mizil, Koray Kavukcuoglu, Hal Daume III", <B>A Binary Classification Framework for Two Stage Multiple Kernel Learning</B>", in <EM>ICML</EM>, 2012.
+<div id="kumar-icml-12"> Abhishek Kumar, Alexandru Niculescu-Mizil, Koray Kavukcuoglu, Hal Daume III, "<B>A Binary Classification Framework for Two Stage Multiple Kernel Learning</B>", in <EM>ICML</EM>, 2012.
  
 <br> 
 <a href="http://cs.nyu.edu/~koray/publis/kumar-icml12.pdf">PDF</a> 
@@ -64,7 +64,7 @@ year = "2012"}
 </li> 
 
 <li> 
-<div id="collober-jmlr-11"> Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa", <B>Natural Language Processing (Almost) from Scratch</B>", in <EM>JMLR</EM>, 2011.
+<div id="collober-jmlr-11"> Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa, "<B>Natural Language Processing (Almost) from Scratch</B>", in <EM>JMLR</EM>, 2011.
  
 <br> 
 <a href="http://ronan.collobert.com/pub/matos/2011_nlp_jmlr.pdf">PDF</a> 
@@ -83,7 +83,7 @@ year = "2011"}
 
 
 <li> 
-<div id="henaff-ismir-11"> Mikael Henaff, Kevin Jarrett, Koray Kavukcuoglu and Yann LeCun", <B>Unsupervised Learning of Sparse Features for Scalable Audio Classification</B>", in <EM>ISMIR</EM>, 2011.
+<div id="henaff-ismir-11"> Mikael Henaff, Kevin Jarrett, Koray Kavukcuoglu and Yann LeCun, "<B>Unsupervised Learning of Sparse Features for Scalable Audio Classification</B>", in <EM>ISMIR</EM>, 2011.
  
 <br> 
 <a href="http://yann.lecun.com/exdb/publis/pdf/henaff-ismir-11.pdf">PDF</a>  <a href="http://yann.lecun.com/exdb/publis/djvu/henaff-ismir-11.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-henaff-ismir-11');return false;">bibtex</a> 
@@ -100,7 +100,7 @@ year = "2011"}
 
 
 <li> 
-<div id="farabet-suml-11"> Clément Farabet, Yann LeCun, Koray Kavukcuoglu, Eugenio Culurciello, Berin Martini, Polina Akselrod and Selcuk Talay", <B>Large-Scale FPGA-based Convolutional Networks</B>", in <EM>Scaling up Machine Learning: Parallel and Distributed Approaches</EM>, 2011.
+<div id="farabet-suml-11"> Clément Farabet, Yann LeCun, Koray Kavukcuoglu, Eugenio Culurciello, Berin Martini, Polina Akselrod and Selcuk Talay, "<B>Large-Scale FPGA-based Convolutional Networks</B>", in <EM>Scaling up Machine Learning: Parallel and Distributed Approaches</EM>, 2011.
  
 <br> 
 <a href="http://yann.lecun.com/exdb/publis/pdf/farabet-suml-11.pdf">PDF</a>  <a href="http://yann.lecun.com/exdb/publis/djvu/farabet-suml-11.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-farabet-suml-11');return false;">bibtex</a> 
