@@ -10,7 +10,7 @@ id: publications
 <ul> 
 
 <li> 
-<div id="ronan-nntricks-2012">R. Collobert, K. Kavukcuoglu and C. Farabet. "<B>Implementing Neural Networks Efficiently.</B>", in <EM>Neural Networks: Tricks of the Trade, G. Montavon, G. Orr and K-R. Muller (Ed), Springer, 2012.</EM>, 2012.
+<div id="ronan-nntricks-2012">R. Collobert, K. Kavukcuoglu and C. Farabet. "<B>Implementing Neural Networks Efficiently.</B>", in <EM>Neural Networks: Tricks of the Trade, G. Montavon, G. Orr and K-R. Muller (Ed), Springer</EM>, 2012.
  
 <br> 
 <a href="http://cs.nyu.edu/~koray/publis/ronan-nntricks-2012.pdf">PDF</a>
