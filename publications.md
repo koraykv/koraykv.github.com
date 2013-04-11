@@ -118,7 +118,7 @@ year = "2011"}
 
 
 <li> 
-<div id="farabet-suml-11"> Clément Farabet, Yann LeCun, Koray Kavukcuoglu, Eugenio Culurciello, Berin Martini, Polina Akselrod and Selcuk Talay, "<B>Large-Scale FPGA-based Convolutional Networks</B>", in <EM>Scaling up Machine Learning: Parallel and Distributed Approaches</EM>, 2011.
+<div id="farabet-suml-11"> Cl&eacute;ment Farabet, Yann LeCun, Koray Kavukcuoglu, Eugenio Culurciello, Berin Martini, Polina Akselrod and Selcuk Talay, "<B>Large-Scale FPGA-based Convolutional Networks</B>", in <EM>Scaling up Machine Learning: Parallel and Distributed Approaches</EM>, 2011.
  
 <br> 
 <a href="http://yann.lecun.com/exdb/publis/pdf/farabet-suml-11.pdf">PDF</a>  <a href="http://yann.lecun.com/exdb/publis/djvu/farabet-suml-11.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-farabet-suml-11');return false;">bibtex</a> 
