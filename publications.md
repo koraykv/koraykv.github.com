@@ -10,7 +10,25 @@ id: publications
 <ul> 
 
 <li> 
-<div id="ronan-nntricks-2012">R. Collobert, K. Kavukcuoglu and C. Farabet. "<B>Implementing Neural Networks Efficiently.</B>", in <EM>Neural Networks: Tricks of the Trade, G. Montavon, G. Orr and K-R. Muller (Ed), Springer</EM>, 2012.
+<div id="sermanet-cvpr-2013">P. Sermanet, K. Kavukcuoglu, S. Chintala, Y. LeCun. "<B>Pedestrian Detection with Unsupervised Multi-Stage Feature Learning.</B>", in <EM>Proc. International Conference on Computer Vision and Pattern Recognition (CVPR'13)</EM>, 2013.
+ 
+<br> 
+<a href="http://cs.nyu.edu/~koray/publis/sermanet-cvpr-2013.pdf">PDF</a>
+<a href="#" onclick="toggle_visibility('bib-sermanet-cvpr-2013');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-sermanet-cvpr-2013" > 
+<pre><code>@incollection{sermanet-cvpr-2013,
+  title = {Pedestrian Detection with Unsupervised Multi-Stage Feature Learning},
+  author = {P. Sermanet and K. Kavukcuoglu and S. Chintala and Y. LeCun},
+  booktitle = {Proc. International Conference on Computer Vision and Pattern Recognition (CVPR'13)},
+  publisher = {IEEE},
+  year = {2013}
+}
+</code></pre></div> 
+</li> 
+
+<li> 
+<div id="ronan-nntricks-2012">R. Collobert, K. Kavukcuoglu, C. Farabet. "<B>Implementing Neural Networks Efficiently.</B>", in <EM>Neural Networks: Tricks of the Trade, G. Montavon, G. Orr and K-R. Muller (Ed), Springer</EM>, 2012.
  
 <br> 
 <a href="http://cs.nyu.edu/~koray/publis/ronan-nntricks-2012.pdf">PDF</a>
