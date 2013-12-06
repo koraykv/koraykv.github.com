@@ -10,6 +10,23 @@ id: publications
 <ul> 
 
 <li> 
+<div id="mnih-nips-2013">Andriy Mnih and Koray Kavukcuoglu "<B>Learning word embeddings efficiently with noise-contrastive estimation</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2013)</EM>, 2013.
+ 
+<br> 
+<a href="http://cs.nyu.edu/~koray/publis/mnih-nips-2013.pdf">PDF</a>
+<a href="#" onclick="toggle_visibility('bib-mnih-nips-2013');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-mnih-nips-2013" > 
+<pre><code>@incollection{mnih-nips-2013,
+  title = {Learning word embeddings efficiently with noise-contrastive estimation},
+  author = {Andriy Mnih and Koray Kavukcuoglu},
+  booktitle = {Advances in Neural Information Processing Systems (NIPS 2013)},
+  year = {2013}
+}
+</code></pre></div> 
+</li> 
+
+<li> 
 <div id="sermanet-cvpr-2013">P. Sermanet, K. Kavukcuoglu, S. Chintala, Y. LeCun. "<B>Pedestrian Detection with Unsupervised Multi-Stage Feature Learning.</B>", in <EM>Proc. International Conference on Computer Vision and Pattern Recognition (CVPR'13)</EM>, 2013.
  
 <br> 
