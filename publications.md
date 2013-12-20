@@ -10,6 +10,23 @@ id: publications
 <ul> 
 
 <li> 
+<div id="mnih-atari-2013">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller"<B>Playing Atari With Deep Reinforcement Learning</B>", in <EM>NIPS Deep Learning Workshop '2013</EM>, 2013.
+ 
+<br> 
+<a href="http://cs.nyu.edu/~koray/publis/mnih-atari-2013.pdf">PDF</a>
+<a href="#" onclick="toggle_visibility('bib-mnih-atari-2013');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-mnih-atari-2013" > 
+<pre><code>@incollection{mnih-atari-2013,
+  title = {Playing Atari With Deep Reinforcement Learning},
+  author = {Volodymyr Mnih and Koray Kavukcuoglu and David Silver and Alex Graves and Ioannis Antonoglou and Daan Wierstra and Martin Riedmiller},
+  booktitle = {NIPS Deep Learning Workshop},
+  year = {2013}
+}
+</code></pre></div> 
+</li> 
+
+<li> 
 <div id="mnih-nips-2013">Andriy Mnih and Koray Kavukcuoglu "<B>Learning word embeddings efficiently with noise-contrastive estimation</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2013)</EM>, 2013.
  
 <br> 
