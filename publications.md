@@ -27,7 +27,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="mnih-nips-2013">Andriy Mnih and Koray Kavukcuoglu "<B>Learning word embeddings efficiently with noise-contrastive estimation</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2013)</EM>, 2013.
+<div id="mnih-nips-2013">Andriy Mnih and Koray Kavukcuoglu. "<B>Learning word embeddings efficiently with noise-contrastive estimation</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2013)</EM>, 2013.
  
 <br> 
 <a href="http://cs.nyu.edu/~koray/publis/mnih-nips-2013.pdf">PDF</a>
