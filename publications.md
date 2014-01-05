@@ -30,7 +30,7 @@ id: publications
 <div id="mnih-nips-2013">Andriy Mnih, Koray Kavukcuoglu. "<B>Learning word embeddings efficiently with noise-contrastive estimation</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2013)</EM>, 2013.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/mnih-nips-2013.pdf">PDF</a>
+<a href="publis/mnih-nips-2013.pdf">PDF</a>
 <a href="#" onclick="toggle_visibility('bib-mnih-nips-2013');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-mnih-nips-2013" > 
@@ -47,7 +47,7 @@ id: publications
 <div id="sermanet-cvpr-2013">P. Sermanet, K. Kavukcuoglu, S. Chintala, Y. LeCun. "<B>Pedestrian Detection with Unsupervised Multi-Stage Feature Learning.</B>", in <EM>Proc. International Conference on Computer Vision and Pattern Recognition (CVPR'13)</EM>, 2013.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/sermanet-cvpr-2013.pdf">PDF</a>
+<a href="publis/sermanet-cvpr-2013.pdf">PDF</a>
 <a href="#" onclick="toggle_visibility('bib-sermanet-cvpr-2013');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-sermanet-cvpr-2013" > 
@@ -65,7 +65,7 @@ id: publications
 <div id="ronan-nntricks-2012">R. Collobert, K. Kavukcuoglu, C. Farabet. "<B>Implementing Neural Networks Efficiently.</B>", in <EM>Neural Networks: Tricks of the Trade, G. Montavon, G. Orr and K-R. Muller (Ed), Springer</EM>, 2012.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/ronan-nntricks-2012.pdf">PDF</a>
+<a href="publis/ronan-nntricks-2012.pdf">PDF</a>
 <a href="#" onclick="toggle_visibility('bib-collobert-torch-2012');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-collobert-torch-2012" > 
@@ -84,8 +84,8 @@ id: publications
 <div id="yunlong-nips-12">Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park, "<B>Learning the Dependency Structure of Latent Factors</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2012)</EM>, 2012.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/yunlong-nips-12.pdf">PDF</a>
-<a href="http://cs.nyu.edu/~koray/publis/yunlong-nips-12-supp.pdf">Supplemetary Material</a>
+<a href="publis/yunlong-nips-12.pdf">PDF</a>
+<a href="publis/yunlong-nips-12-supp.pdf">Supplemetary Material</a>
 <a href="#" onclick="toggle_visibility('bib-yunlong-nips-12');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-yunlong-nips-12" > 
@@ -103,7 +103,7 @@ id: publications
 <div id="kumar-icml-12"> Abhishek Kumar, Alexandru Niculescu-Mizil, Koray Kavukcuoglu, Hal Daume III, "<B>A Binary Classification Framework for Two Stage Multiple Kernel Learning</B>", in <EM>ICML</EM>, 2012.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/kumar-icml12.pdf">PDF</a> 
+<a href="publis/kumar-icml12.pdf">PDF</a> 
 <a href="#" onclick="toggle_visibility('bib-kumar-icml-12');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-kumar-icml-12" > 
@@ -173,12 +173,12 @@ year = "2011"}
 <div id="koray-phd-thesis-11">Koray Kavukcuoglu, "<B>Learning Feature Hierarchies for Object Recognition </B>", PhD Thesis, Jan. 2011.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/KavukcuogluPhDThesis.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/KavukcuogluPhDThesis.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-koray-phd-thesis-11');return false;">bibtex</a> 
+<a href="publis/KavukcuogluPhDThesis.pdf">PDF</a>  <a href="publis/KavukcuogluPhDThesis.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-koray-phd-thesis-11');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-koray-phd-thesis-11" > 
 <pre><code>@phdthesis{ koray-phd-thesis-11,
-  urlpdf = "http://cs.nyu.edu/\~{}koray/publis/KavukcuogluPhDThesis.pdf",
-  urldjvu = "http://cs.nyu.edu/\~{}koray/publis/KavukcuogluPhDThesis.djvu",
+  urlpdf = "http://koray.kavukcuoglu.org/publis/KavukcuogluPhDThesis.pdf",
+  urldjvu = "http://koray.kavukcuoglu.org/publis/KavukcuogluPhDThesis.djvu",
   author =	 "Koray Kavukcuoglu",
   title =	 "Learning Feature Hierarchies for Object Recognition ",
   school =	 "New York University",
@@ -193,7 +193,7 @@ year = "2011"}
 <div id="koray-nips-10">Koray Kavukcuoglu, Pierre Sermanet, Y-Lan Boureau, Karol Gregor, Michael Mathieu, and Yann LeCun, "<B>Learning Convolutional Feature Hierachies for Visual Recognition</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2010)</EM>, 2010.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/koray-nips-10.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/koray-nips-10.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-koray-nips-10');return false;">bibtex</a> 
+<a href="publis/koray-nips-10.pdf">PDF</a>  <a href="publis/koray-nips-10.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-koray-nips-10');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-koray-nips-10" > 
 <pre><code>@inproceedings{ koray-nips-10,
@@ -202,8 +202,8 @@ year = "2011"}
  title = "Learning Convolutional Feature Hierachies for Visual Recognition",
  booktitle = "Advances in Neural Information Processing Systems (NIPS 2010)",
  year = "2010",
- urlpdf="http://cs.nyu.edu/\~{}koray/publis/koray-nips-10.pdf",
- urldjvu="http://cs.nyu.edu/\~{}koray/publis/koray-nips-10.djvu"
+ urlpdf="http://koray.kavukcuoglu.org/publis/koray-nips-10.pdf",
+ urldjvu="http://koray.kavukcuoglu.org/publis/koray-nips-10.djvu"
 }
 </code></pre></div> 
 </li> 
@@ -212,7 +212,7 @@ year = "2011"}
 <div id="szlam-convmp-10">Arthur Szlam, Koray Kavukcuoglu, and Yann LeCun, "<B>Convolutional Matching Pursuit and Dictionary Training</B>", 2010.
  
 <br> 
-<a href="http://arxiv.org/abs/1010.0422">Arxiv</a>  <a href="http://cs.nyu.edu/~koray/publis/aszlam-convmp-2010.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/aszlam-convmp-2010.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-szlam-convmp-10');return false;">bibtex</a> 
+<a href="http://arxiv.org/abs/1010.0422">Arxiv</a>  <a href="publis/aszlam-convmp-2010.pdf">PDF</a>  <a href="publis/aszlam-convmp-2010.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-szlam-convmp-10');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-szlam-convmp-10" > 
 <pre><code>@article { szlam-convmp-10,
@@ -220,8 +220,8 @@ year = "2011"}
  author = "Arthur Szlam and Koray Kavukcuoglu and Yann LeCun",
  year = "2010",
  urlarxiv= "http://arxiv.org/abs/1010.0422",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/aszlam-convmp-2010.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/aszlam-convmp-2010.djvu",
+ urlpdf = "http://koray.kavukcuoglu.org/publis/aszlam-convmp-2010.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/aszlam-convmp-2010.djvu",
 }
 </code></pre></div> 
 </li> 
@@ -230,7 +230,7 @@ year = "2011"}
 <div id="lecun-iscas-10">Yann Lecun, Koray Kavukcuoglu, and Clement Farabet, "<B>Convolutional Networks and Applications in Vision</B>", in <EM>Proc. International Symposium on Circuits and Systems (ISCAS'10)</EM>, 2010.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/lecun-iscas-10.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/lecun-iscas-10.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-lecun-iscas-10');return false;">bibtex</a> 
+<a href="publis/lecun-iscas-10.pdf">PDF</a>  <a href="publis/lecun-iscas-10.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-lecun-iscas-10');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-lecun-iscas-10" > 
 <pre><code>@inproceedings { lecun-iscas-10,
@@ -239,8 +239,8 @@ year = "2011"}
  booktitle="Proc. International Symposium on Circuits and Systems (ISCAS'10)",
  publisher = "IEEE",
  year = "2010",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/lecun-iscas-10.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/lecun-iscas-10.djvu"
+ urlpdf = "http://koray.kavukcuoglu.org/publis/lecun-iscas-10.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/lecun-iscas-10.djvu"
 }
 </code></pre></div> 
 </li> 
@@ -249,7 +249,7 @@ year = "2011"}
 <div id="qi-icdm-09">Yanjun Qi, Pavel P. Kuksa, Ronan Collobert, Kunihiko Sadamasa, Koray Kavukcuoglu, and Jason Weston, "<B>Semi-Supervised Sequence Labeling with Self-Learned Features</B>", in <EM>Proc. International Conference on Data Mining (ICDM'09)</EM>, 2009.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/qi-icdm-09.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/qi-icdm-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-qi-icdm-09');return false;">bibtex</a> 
+<a href="publis/qi-icdm-09.pdf">PDF</a>  <a href="publis/qi-icdm-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-qi-icdm-09');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-qi-icdm-09" > 
 <pre><code>@inproceedings { qi-icdm-09,
@@ -258,8 +258,8 @@ year = "2011"}
  booktitle="Proc. International Conference on Data Mining (ICDM'09)",
  publisher = "IEEE",
  year = "2009",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/qi-icdm-09.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/qi-icdm-09.djvu"
+ urlpdf = "http://koray.kavukcuoglu.org/publis/qi-icdm-09.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/qi-icdm-09.djvu"
 }
 </code></pre></div> 
 </li> 
@@ -268,7 +268,7 @@ year = "2011"}
 <div id="jarrett-iccv-09">Kevin Jarrett, Koray Kavukcuoglu, Marc'Aurelio Ranzato, and Yann LeCun, "<B>What is the Best Multi-Stage Architecture for Object Recognition?</B>", in <EM>Proc. International Conference on Computer Vision (ICCV'09)</EM>, 2009.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/jarrett-iccv-09.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/jarrett-iccv-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-jarrett-iccv-09');return false;">bibtex</a> 
+<a href="publis/jarrett-iccv-09.pdf">PDF</a>  <a href="publis/jarrett-iccv-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-jarrett-iccv-09');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-jarrett-iccv-09" > 
 <pre><code>@inproceedings { jarrett-iccv-09,
@@ -277,8 +277,8 @@ year = "2011"}
  booktitle = "Proc. International Conference on Computer Vision (ICCV'09)",
  publisher = "IEEE",
  year = "2009",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/jarrett-iccv-09.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/jarrett-iccv-09.djvu",
+ urlpdf = "http://koray.kavukcuoglu.org/publis/jarrett-iccv-09.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/jarrett-iccv-09.djvu",
  urlcode = "http://cs.nyu.edu/\~{}koray/wp/?page_id=29"
 }
 </code></pre></div> 
@@ -288,7 +288,7 @@ year = "2011"}
 <div id="koray-cvpr-09">Koray Kavukcuoglu, Marc'Aurelio Ranzato, Rob Fergus, and Yann LeCun, "<B>Learning Invariant Features through Topographic Filter Maps</B>", in <EM>Proc. International Conference on Computer Vision and Pattern Recognition (CVPR'09)</EM>, 2009.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/koray-cvpr-09.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/koray-cvpr-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-koray-cvpr-09');return false;">bibtex</a> 
+<a href="publis/koray-cvpr-09.pdf">PDF</a>  <a href="publis/koray-cvpr-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-koray-cvpr-09');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-koray-cvpr-09" > 
 <pre><code>@inproceedings { koray-cvpr-09,
@@ -297,8 +297,8 @@ year = "2011"}
  booktitle = "Proc. International Conference on Computer Vision and Pattern Recognition (CVPR'09)",
  publisher = "IEEE",
  year = "2009",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/koray-cvpr-09.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/koray-cvpr-09.djvu",
+ urlpdf = "http://koray.kavukcuoglu.org/publis/koray-cvpr-09.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/koray-cvpr-09.djvu",
  urlcode = "http://cs.nyu.edu/\~{}koray/wp/?page_id=29"
 }
 </code></pre></div> 
@@ -308,7 +308,7 @@ year = "2011"}
 <div id="qi-cikm-09">Yanjun Qi, Ronan Collobert, Pavel P. Kuksa, Koray Kavukcuoglu, and Jason Weston, "<B>Combining Labeled and Unlabeled Data with Word-Class Distribution Learning</B>", in <EM>Proceedings of the ACM Conference on Information and Knowledge Management (CIKM'09)</EM>, 2009.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/qi-cikm-09.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/qi-cikm-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-qi-cikm-09');return false;">bibtex</a> 
+<a href="publis/qi-cikm-09.pdf">PDF</a>  <a href="publis/qi-cikm-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-qi-cikm-09');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-qi-cikm-09" > 
 <pre><code>@inproceedings { qi-cikm-09,
@@ -317,8 +317,8 @@ year = "2011"}
  booktitle="Proceedings of the ACM Conference on Information and Knowledge Management (CIKM'09)",
  publisher = "ACM",
  year = "2009",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/qi-cikm-09.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/qi-cikm-09.djvu"
+ urlpdf = "http://koray.kavukcuoglu.org/publis/qi-cikm-09.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/qi-cikm-09.djvu"
 }
 </code></pre></div> 
 </li> 
@@ -327,7 +327,7 @@ year = "2011"}
 <div id="sermanet-ictai-09">Pierre Sermanet, Koray Kavukcuoglu, and Yann LeCun, "<B>EBLearn: Open-Source Energy-Based Learning in C++</B>", in <EM>Proceedings of the International Conference on Tools with Artificial Intelligence (ICTAI'09)</EM>, 2009.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/sermanet-ictai-09.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/sermanet-ictai-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-sermanet-ictai-09');return false;">bibtex</a> 
+<a href="publis/sermanet-ictai-09.pdf">PDF</a>  <a href="publis/sermanet-ictai-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-sermanet-ictai-09');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-sermanet-ictai-09" > 
 <pre><code>@inproceedings { sermanet-ictai-09,
@@ -336,8 +336,8 @@ year = "2011"}
  booktitle="Proceedings of the International Conference on Tools with Artificial Intelligence (ICTAI'09)",
  publisher = "IEEE",
  year = "2009",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/sermanet-ictai-09.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/sermanet-ictai-09.djvu"
+ urlpdf = "http://koray.kavukcuoglu.org/publis/sermanet-ictai-09.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/sermanet-ictai-09.djvu"
 }
 </code></pre></div> 
 </li> 
@@ -346,7 +346,7 @@ year = "2011"}
 <div id="koray-psd-08">Koray Kavukcuoglu, Marc'Aurelio Ranzato, and Yann LeCun, "<B>Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition</B>", Computational and Biological Learning Lab, Courant Institute, NYU, 2008.
  
 <br> 
-<a href="http://arxiv.org/abs/1010.3467">Arxiv</a>  <a href="http://cs.nyu.edu/~koray/publis/koray-psd-08.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/koray-psd-08.djvu">DjVu</a>  <a href="http://cs.nyu.edu/~koray/publis/koray-psd-08-nips_ws_poster.pdf">Poster</a>  <a href="#" onclick="toggle_visibility('bib-koray-psd-08');return false;">bibtex</a> 
+<a href="http://arxiv.org/abs/1010.3467">Arxiv</a>  <a href="publis/koray-psd-08.pdf">PDF</a>  <a href="publis/koray-psd-08.djvu">DjVu</a>  <a href="publis/koray-psd-08-nips_ws_poster.pdf">Poster</a>  <a href="#" onclick="toggle_visibility('bib-koray-psd-08');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-koray-psd-08" > 
 <pre><code>@techreport { koray-psd-08,
@@ -356,9 +356,9 @@ year = "2011"}
  number = "CBLL-TR-2008-12-01",
  year = "2008",
  urlarxiv= "http://arxiv.org/abs/1010.3467",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/koray-psd-08.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/koray-psd-08.djvu",
- urlposter= "http://cs.nyu.edu/\~{}koray/publis/koray-psd-08-nips_ws_poster.pdf",
+ urlpdf = "http://koray.kavukcuoglu.org/publis/koray-psd-08.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/koray-psd-08.djvu",
+ urlposter= "http://koray.kavukcuoglu.org/publis/koray-psd-08-nips_ws_poster.pdf",
  urlcode = "http://cs.nyu.edu/\~{}koray/wp/?page_id=29"
 }
 </code></pre></div> 
@@ -368,7 +368,7 @@ year = "2011"}
 <div id="hadsell-jfr-09">Raia Hadsell, Pierre Sermanet, Marco Scoffier, Ayse Erkan, Koray Kavukcuoglu, Urs Muller, and Yann LeCun, "<B>Learning Long-Range Vision for Autonomous Off-Road Driving</B>", <EM>Journal of Field Robotics</EM>, vol. 26, no. 2, pp. 120-144, Feb. 2009.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/hadsell-jfr-09.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/hadsell-jfr-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-hadsell-jfr-09');return false;">bibtex</a> 
+<a href="publis/hadsell-jfr-09.pdf">PDF</a>  <a href="publis/hadsell-jfr-09.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-hadsell-jfr-09');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-hadsell-jfr-09" > 
 <pre><code>@article{ hadsell-jfr-09,
@@ -380,8 +380,8 @@ year = "2011"}
  month = "February",
  pages = "120-144",
  year = "2009",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/hadsell-jfr-09.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/hadsell-jfr-09.djvu"
+ urlpdf = "http://koray.kavukcuoglu.org/publis/hadsell-jfr-09.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/hadsell-jfr-09.djvu"
 }
 </code></pre></div> 
 </li> 
@@ -390,7 +390,7 @@ year = "2011"}
 <div id="hadsell-ra-07">Raia Hadsell, Ayse Erkan, Pierre Sermanet, Jan Ben, Koray Kavukcuoglu, Urs Muller, and Yann LeCun, "<B>A Multi-Range Vision Strategy for Autonomous Offroad Navigation</B>", in <EM>Proc. Robotics and Applications (RA'07)</EM>, 2007.
  
 <br> 
-<a href="http://cs.nyu.edu/~koray/publis/hadsell-ra-07.pdf">PDF</a>  <a href="http://cs.nyu.edu/~koray/publis/hadsell-ra-07.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-hadsell-ra-07');return false;">bibtex</a> 
+<a href="publis/hadsell-ra-07.pdf">PDF</a>  <a href="publis/hadsell-ra-07.djvu">DjVu</a>  <a href="#" onclick="toggle_visibility('bib-hadsell-ra-07');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-hadsell-ra-07" > 
 <pre><code>@inproceedings{ hadsell-ra-07,
@@ -398,8 +398,8 @@ year = "2011"}
  author = "Hadsell, Raia and Erkan, Ayse and Sermanet, Pierre and Ben, Jan and Kavukcuoglu, Koray and Muller, Urs and LeCun, Yann",
  booktitle = "Proc. Robotics and Applications (RA'07)",
  year = "2007",
- urlpdf = "http://cs.nyu.edu/\~{}koray/publis/hadsell-ra-07.pdf",
- urldjvu = "http://cs.nyu.edu/\~{}koray/publis/hadsell-ra-07.djvu"
+ urlpdf = "http://koray.kavukcuoglu.org/publis/hadsell-ra-07.pdf",
+ urldjvu = "http://koray.kavukcuoglu.org/publis/hadsell-ra-07.djvu"
 }
 </code></pre></div> 
 </li> 
