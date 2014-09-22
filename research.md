@@ -40,7 +40,7 @@ In our paper **Learning Convolutional Feature Hierarchies for Visual Recognition
 
 ## Collaborators
 
- - [Vlad Mnih](https://cs.toronto.edu/~vmnih)
+ - [Vlad Mnih](https://www.cs.toronto.edu/~vmnih)
  - [Yann LeCun](http://cs.nyu.edu/~yann)
  - [Rob Fergus](http://cs.nyu.edu/~fergus)
  - [Ronan Collobert](http://ronan.collobert.com/)
