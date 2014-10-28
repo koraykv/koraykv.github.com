@@ -10,6 +10,23 @@ id: publications
 <ul> 
 
 <li> 
+<div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS '2014</EM>, 2013.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1406.6247.pdf">Arxiv version</a>
+<a href="#" onclick="toggle_visibility('bib-mnih-atari-2013');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-mnih-attention-2014" > 
+<pre><code>@incollection{mnih-attention-2014,
+  title = {Recurrent Models of Visual Attention},
+  author = {Volodymyr Mnih and Nicolas Hees and Alex Graves and Koray Kavukcuoglu},
+  booktitle = {NIPS},
+  year = {2014}
+}
+</code></pre></div> 
+</li> 
+
+<li> 
 <div id="mnih-atari-2013">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. "<B>Playing Atari With Deep Reinforcement Learning</B>", in <EM>NIPS Deep Learning Workshop '2013</EM>, 2013.
  
 <br> 
