@@ -14,7 +14,7 @@ id: publications
  
 <br> 
 <a href="http://arxiv.org/pdf/1406.6247.pdf">Arxiv version</a>
-<a href="#" onclick="toggle_visibility('bib-mnih-atari-2013');return false;">bibtex</a> 
+<a href="#" onclick="toggle_visibility('bib-mnih-attention-2014');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-mnih-attention-2014" > 
 <pre><code>@incollection{mnih-attention-2014,
