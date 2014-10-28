@@ -10,7 +10,7 @@ id: publications
 <ul> 
 
 <li> 
-<div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS '2014</EM>, 2013.
+<div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS '2014</EM>, 2014.
  
 <br> 
 <a href="http://arxiv.org/pdf/1406.6247.pdf">Arxiv version</a>
