@@ -10,6 +10,38 @@ id: publications
 <ul> 
 
 <li> 
+<div id="mnih-dqn-2015">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, 	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg, Demis Hassabis."<B>Human-level control through deep reinforcement learning</B>", in Nature 518, 529–533 , 2015.
+ 
+<br> 
+<a href="http://dx.doi.org/10.1038/nature14236">DOI</a>
+<a href="#" onclick="toggle_visibility('bib-mnih-dqn-2015');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-mnih-dqn-2015" > 
+<pre><code>
+@article{mnih-dqn-2015,
+	Author = {Mnih, Volodymyr and Kavukcuoglu, Koray and Silver, David and Rusu, Andrei A. and Veness, Joel and Bellemare, Marc G. and Graves, Alex and Riedmiller, Martin and Fidjeland, Andreas K. and Ostrovski, Georg and Petersen, Stig and Beattie, Charles and Sadik, Amir and Antonoglou, Ioannis and King, Helen and Kumaran, Dharshan and Wierstra, Daan and Legg, Shane and Hassabis, Demis},
+	Date = {2015/02/26/print},
+	Date-Added = {2015-03-03 15:43:42 +0000},
+	Date-Modified = {2015-03-03 15:43:42 +0000},
+	Day = {26},
+	Isbn = {0028-0836},
+	Journal = {Nature},
+	L3 = {10.1038/nature14236; http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html#supplementary-information},
+	M3 = {Letter},
+	Month = {02},
+	Number = {7540},
+	Pages = {529--533},
+	Publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+	Title = {Human-level control through deep reinforcement learning},
+	Ty = {JOUR},
+	Url = {http://dx.doi.org/10.1038/nature14236},
+	Volume = {518},
+	Year = {2015},
+}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS '2014</EM>, 2014.
  
 <br> 
