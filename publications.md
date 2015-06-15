@@ -10,6 +10,41 @@ id: publications
 <ul> 
 
 <li> 
+<div id="blundell-uncertainty-2015">Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra"<B>Weight Uncertainty in Neural Networks</B>", in <EM>ICML '2015</EM>, 2015.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1505.05424.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-blundell-uncertainty-2015');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-blundell-uncertainty-2015" > 
+<pre><code>@incollection{blundell-uncertainty-2015,
+  title={Weight Uncertainty in Neural Networks},
+  author={Blundell, Charles and Cornebise, Julien and Kavukcuoglu, Koray and Wierstra, Daan},
+  booktitle={ICML'15},
+  year={2015}
+}
+</code></pre></div> 
+</li> 
+
+<li> 
+<div id="ba-attention-2015">Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu."<B>Multiple Object Recognition with Visual Attention</B>", in <EM>ICLR '2015</EM>, 2015.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1412.7755.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-ba-attention-2015');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-ba-attention-2015" > 
+<pre><code>@incollection{ba-attention-2015,
+  title={Multiple Object Recognition with Visual Attention},
+  author={Ba, Jimmy and Mnih, Volodymyr and Kavukcuoglu, Koray},
+  booktitle={ICLR'15},
+  year={2015}
+}
+</code></pre></div> 
+</li> 
+
+
+<li> 
 <div id="mnih-dqn-2015">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, 	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg, Demis Hassabis."<B>Human-level control through deep reinforcement learning</B>", in Nature 518, 529–533 , 2015.
  
 <br> 
@@ -45,7 +80,7 @@ id: publications
 <div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS '2014</EM>, 2014.
  
 <br> 
-<a href="http://arxiv.org/pdf/1406.6247.pdf">Arxiv version</a>
+<a href="http://arxiv.org/pdf/1406.6247.pdf">Arxiv</a>
 <a href="#" onclick="toggle_visibility('bib-mnih-attention-2014');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-mnih-attention-2014" > 
