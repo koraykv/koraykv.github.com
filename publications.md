@@ -10,7 +10,24 @@ id: publications
 <ul> 
 
 <li> 
-<div id="blundell-uncertainty-2015">Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra"<B>Weight Uncertainty in Neural Networks</B>", in <EM>ICML</EM>, 2015.
+<div id="jaderberg-transformer-2015">Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. "<B>Spatial Transformer Networks</B>", in <EM>Arxiv Preprint</EM>, 2015.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1506.02025.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-jaderberg-transformer-2015');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-jaderberg-transformer-2015" > 
+<pre><code>@incollection{jaderberg-transformer-2015,
+  title={Spatial Transformer Networks},
+  author={Jaderberg, Max and Simonyan, Karen and Zisserman, Andrew and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1506.02025},
+  year={2015}
+}
+</code></pre></div> 
+</li> 
+
+<li> 
+<div id="blundell-uncertainty-2015">Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra. "<B>Weight Uncertainty in Neural Networks</B>", in <EM>ICML</EM>, 2015.
  
 <br> 
 <a href="http://arxiv.org/pdf/1505.05424.pdf">Arxiv</a>
@@ -27,7 +44,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="ba-attention-2015">Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu."<B>Multiple Object Recognition with Visual Attention</B>", in <EM>ICLR</EM>, 2015.
+<div id="ba-attention-2015">Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu. "<B>Multiple Object Recognition with Visual Attention</B>", in <EM>ICLR</EM>, 2015.
  
 <br> 
 <a href="http://arxiv.org/pdf/1412.7755.pdf">Arxiv</a>
@@ -45,7 +62,7 @@ id: publications
 
 
 <li> 
-<div id="mnih-dqn-2015">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, 	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg, Demis Hassabis."<B>Human-level control through deep reinforcement learning</B>", in Nature 518, 529–533 , 2015.
+<div id="mnih-dqn-2015">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, 	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg, Demis Hassabis. "<B>Human-level control through deep reinforcement learning</B>", in Nature 518, 529–533 , 2015.
  
 <br> 
 <a href="http://dx.doi.org/10.1038/nature14236">DOI</a>
@@ -77,7 +94,7 @@ id: publications
 </li>
 
 <li> 
-<div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS</EM>, 2014.
+<div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu. "<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS</EM>, 2014.
  
 <br> 
 <a href="http://arxiv.org/pdf/1406.6247.pdf">Arxiv</a>
