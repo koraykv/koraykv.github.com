@@ -10,7 +10,7 @@ id: publications
 <ul> 
 
 <li> 
-<div id="blundell-uncertainty-2015">Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra"<B>Weight Uncertainty in Neural Networks</B>", in <EM>ICML '2015</EM>, 2015.
+<div id="blundell-uncertainty-2015">Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra"<B>Weight Uncertainty in Neural Networks</B>", in <EM>ICML</EM>, 2015.
  
 <br> 
 <a href="http://arxiv.org/pdf/1505.05424.pdf">Arxiv</a>
@@ -27,7 +27,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="ba-attention-2015">Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu."<B>Multiple Object Recognition with Visual Attention</B>", in <EM>ICLR '2015</EM>, 2015.
+<div id="ba-attention-2015">Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu."<B>Multiple Object Recognition with Visual Attention</B>", in <EM>ICLR</EM>, 2015.
  
 <br> 
 <a href="http://arxiv.org/pdf/1412.7755.pdf">Arxiv</a>
@@ -77,7 +77,7 @@ id: publications
 </li>
 
 <li> 
-<div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS '2014</EM>, 2014.
+<div id="mnih-attention-2014">Volodymyr Mnih, Nicolas Hees, Alex Graves, Koray Kavukcuoglu."<B>Recurrent Models of Visual Attention</B>", in <EM>NIPS</EM>, 2014.
  
 <br> 
 <a href="http://arxiv.org/pdf/1406.6247.pdf">Arxiv</a>
@@ -94,7 +94,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="mnih-atari-2013">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. "<B>Playing Atari With Deep Reinforcement Learning</B>", in <EM>NIPS Deep Learning Workshop '2013</EM>, 2013.
+<div id="mnih-atari-2013">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. "<B>Playing Atari With Deep Reinforcement Learning</B>", in <EM>NIPS Deep Learning Workshop</EM>, 2013.
  
 <br> 
 <a href="publis/mnih-atari-2013.pdf">PDF</a>
@@ -111,7 +111,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="mnih-nips-2013">Andriy Mnih, Koray Kavukcuoglu. "<B>Learning word embeddings efficiently with noise-contrastive estimation</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2013)</EM>, 2013.
+<div id="mnih-nips-2013">Andriy Mnih, Koray Kavukcuoglu. "<B>Learning word embeddings efficiently with noise-contrastive estimation</B>", in <EM>Advances in Neural Information Processing Systems (NIPS)</EM>, 2013.
  
 <br> 
 <a href="publis/mnih-nips-2013.pdf">PDF</a>
@@ -128,7 +128,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="sermanet-cvpr-2013">P. Sermanet, K. Kavukcuoglu, S. Chintala, Y. LeCun. "<B>Pedestrian Detection with Unsupervised Multi-Stage Feature Learning.</B>", in <EM>Proc. International Conference on Computer Vision and Pattern Recognition (CVPR'13)</EM>, 2013.
+<div id="sermanet-cvpr-2013">P. Sermanet, K. Kavukcuoglu, S. Chintala, Y. LeCun. "<B>Pedestrian Detection with Unsupervised Multi-Stage Feature Learning.</B>", in <EM>Proc. International Conference on Computer Vision and Pattern Recognition (CVPR)</EM>, 2013.
  
 <br> 
 <a href="publis/sermanet-cvpr-2013.pdf">PDF</a>
@@ -165,7 +165,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="yunlong-nips-12">Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park, "<B>Learning the Dependency Structure of Latent Factors</B>", in <EM>Advances in Neural Information Processing Systems (NIPS 2012)</EM>, 2012.
+<div id="yunlong-nips-12">Yunlong He, Yanjun Qi, Koray Kavukcuoglu, Haesun Park, "<B>Learning the Dependency Structure of Latent Factors</B>", in <EM>Advances in Neural Information Processing Systems (NIPS)</EM>, 2012.
  
 <br> 
 <a href="publis/yunlong-nips-12.pdf">PDF</a>
