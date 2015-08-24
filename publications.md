@@ -10,6 +10,23 @@ id: publications
 <ul> 
 
 <li> 
+<div id="desjardins-natural-2015">Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, Koray Kavukcuoglu."<B>Natural Neural Networks</B>", in <EM>Arxiv Preprint</EM>, 2015.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1507.00210.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-desjardins-natural-2015');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-desjardins-natural-2015" > 
+<pre><code>@incollection{desjardins-natural-2015,
+  title={Natural Neural Networks},
+  author={Desjardins, Guillaume and Simonyan, Karen and Pascanu, Razvan and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1507.00210},
+  year={2015}
+}
+</code></pre></div> 
+</li> 
+
+<li> 
 <div id="jaderberg-transformer-2015">Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. "<B>Spatial Transformer Networks</B>", in <EM>Arxiv Preprint</EM>, 2015.
  
 <br> 
