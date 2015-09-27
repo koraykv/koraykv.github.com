@@ -10,7 +10,7 @@ id: publications
 <ul> 
 
 <li> 
-<div id="desjardins-natural-2015">Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, Koray Kavukcuoglu."<B>Natural Neural Networks</B>", in <EM>Arxiv Preprint</EM>, 2015.
+<div id="desjardins-natural-2015">Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, Koray Kavukcuoglu."<B>Natural Neural Networks</B>", in <EM>NIPS</EM>, 2015.
  
 <br> 
 <a href="http://arxiv.org/pdf/1507.00210.pdf">Arxiv</a>
@@ -27,7 +27,7 @@ id: publications
 </li> 
 
 <li> 
-<div id="jaderberg-transformer-2015">Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. "<B>Spatial Transformer Networks</B>", in <EM>Arxiv Preprint</EM>, 2015.
+<div id="jaderberg-transformer-2015">Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. "<B>Spatial Transformer Networks</B>", in <EM>NIPS</EM>, 2015.
  
 <br> 
 <a href="http://arxiv.org/pdf/1506.02025.pdf">Arxiv</a>
