@@ -6,7 +6,9 @@ id: code
 
 # Code
 
-All the code that we use for different papers are actually part of a single library that we have developed at CBLL. It is written in [Lush](http://lush.sf.net), an object oriented Lisp derivative language with an integrated compiler that converts [Lush](http://lush.sf.net) code to C code and generates very efficient native code. In order to be able to run our code, you need to install [Lush](http://lush.sf.net) on your system.
+For my current research I use [Torch7](http://www.torch.ch), which I am one of the core contributors.
+
+All the code that I wrote during my PhD for different papers are actually part of a single library that we have developed at CBLL. It is written in [Lush](http://lush.sf.net), an object oriented Lisp derivative language with an integrated compiler that converts [Lush](http://lush.sf.net) code to C code and generates very efficient native code. In order to be able to run our code, you need to install [Lush](http://lush.sf.net) on your system.
 
 ## Data
 We generally use grayscale Berkeley Natural Images for demonstrating unsupervised learning. We provide 50K randomly extracted 40×40 patches [here](http://cs.nyu.edu/~koray/publis/code/tr-berkeley-N50K-M40x40.mat).
