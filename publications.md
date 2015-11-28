@@ -58,6 +58,24 @@ id: publications
   year={2015}
 }
 </code></pre></div> 
+</li>
+
+<li> 
+<div id="nair-gorila-2015"> A Nair P Srinivasan S Blackwell C Alcicek R Fearon A De Maria V Panneershelvam M Suleyman C Beattie S Petersen S Legg V Mnih K Kavukcuoglu D Silver "<B>Massively Parallel Methods for Deep Reinforcement Learning</B>", in <EM>Deep Learning Workshop at ICML</EM>, 2015.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1507.04296.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-nair-gorila-2015');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-nair-gorila-2015" > 
+<pre><code>@article{nair-gorila-2015,
+  title={Massively parallel methods for deep reinforcement learning},
+  author={Nair, Arun and Srinivasan, Praveen and Blackwell, Sam and Alcicek, Cagdas and Fearon, Rory and De Maria, Alessandro and Panneershelvam, Vedavyas and Suleyman, Mustafa and Beattie, Charles and Petersen, Stig and others},
+  journal={arXiv preprint arXiv:1507.04296},
+  year={2015}
+}
+
+</code></pre></div> 
 </li> 
 
 <li> 
