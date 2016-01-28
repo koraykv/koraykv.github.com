@@ -100,7 +100,8 @@ id: publications
 <div id="mnih-dqn-2015">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, 	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg, Demis Hassabis. "<B>Human-level control through deep reinforcement learning</B>", in Nature 518, 529–533 , 2015.
  
 <br> 
-<a href="http://dx.doi.org/10.1038/nature14236">DOI</a>
+<a href="https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf">PDF</a>
+<a href="http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html">Nature</a>
 <a href="http://sites.google.com/a/deepmind.com/dqn">Code</a>
 <a href="#" onclick="toggle_visibility('bib-mnih-dqn-2015');return false;">bibtex</a> 
 </div> 
