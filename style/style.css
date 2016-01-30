@@ -124,6 +124,10 @@ hr{
   border: solid 1px #aaa;
 }
 
+.bibli ul {
+  list-style-type: none;
+}
+
 .bibli ul li{
   margin-bottom: 10px;
 }
