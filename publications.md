@@ -10,6 +10,28 @@ id: publications
 <ul> 
 
 <li> 
+<div id="silver-alphago-2016">David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, Demis Hassabis."<B>Mastering the game of Go with deep neural networks and tree search</B>", in Nature 529, 484–489, 2016.
+ 
+<br>
+<a href="http://www.deepmind.com/alpha-go.html">Web</a>
+<a href="http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html">Nature</a>
+<a href="https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf">PDF</a>
+<a href="#" onclick="toggle_visibility('bib-silver-alphago-2016');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-silver-alphago-2016" > 
+<pre><code>@article{silver-alphago-2016,
+	Author = {Silver, David and Huang, Aja and Maddison, Chris J. and Guez, Arthur and Sifre, Laurent and van den Driessche, George and Schrittwieser, Julian and Antonoglou, Ioannis and Panneershelvam, Veda and Lanctot, Marc and Dieleman, Sander and Grewe, Dominik and Nham, John and Kalchbrenner, Nal and Sutskever, Ilya and Lillicrap, Timothy and Leach, Madeleine and Kavukcuoglu, Koray and Graepel, Thore and Hassabis, Demis},
+	Journal = {Nature},
+	Month = {01},
+	Number = {7587},
+	Pages = {484--489},
+	Title = {Mastering the game of Go with deep neural networks and tree search},
+	Volume = {529},
+	Year = {2016}}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="aaron-pixelrnn-2016">Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu."<B>Pixel Recurrent Neural Networks</B>", 2016.
  
 <br> 
@@ -135,8 +157,9 @@ id: publications
 <div id="mnih-dqn-2015">Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, 	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg, Demis Hassabis. "<B>Human-level control through deep reinforcement learning</B>", in Nature 518, 529–533 , 2015.
  
 <br> 
-<a href="https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf">PDF</a>
+<a href="http://www.deepmind.com/dqn.html">Web</a>
 <a href="http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html">Nature</a>
+<a href="https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf">PDF</a>
 <a href="http://sites.google.com/a/deepmind.com/dqn">Code</a>
 <a href="#" onclick="toggle_visibility('bib-mnih-dqn-2015');return false;">bibtex</a> 
 </div> 
