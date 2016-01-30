@@ -126,6 +126,7 @@ hr{
 
 .bibli ul {
   list-style-type: none;
+  padding: 0;
 }
 
 .bibli ul li{
