@@ -14,10 +14,10 @@ id: publications
  
 <br> 
 <a href="http://arxiv.org/pdf/1601.06759.pdf">Arxiv</a>
-<a href="#" onclick="toggle_visibility('aaron-pixelrnn-2016');return false;">bibtex</a> 
+<a href="#" onclick="toggle_visibility('bib-aaron-pixelrnn-2016');return false;">bibtex</a> 
 </div> 
-<div class="bibtex" id="aaron-pixelrnn-2016" > 
-<pre><code>@article{aaron-pixelrnn-2016,
+<div class="bibtex" id="bib-aaron-pixelrnn-2016" > 
+<pre><code>@incollection{aaron-pixelrnn-2016,
    author = {van den Oord, A. and Kalchbrenner, N. and Kavukcuoglu, K.},
     title = {Pixel Recurrent Neural Networks},
   journal = {ArXiv preprint arXiv:1601.06759},
@@ -31,10 +31,10 @@ id: publications
  
 <br> 
 <a href="http://arxiv.org/pdf/1511.06295.pdf">Arxiv</a>
-<a href="#" onclick="toggle_visibility('rusu-distillation-2015');return false;">bibtex</a> 
+<a href="#" onclick="toggle_visibility('bib-rusu-distillation-2015');return false;">bibtex</a> 
 </div> 
-<div class="bibtex" id="rusu-distillation-2015" > 
-<pre><code>@article{rusu-distillation-2015,
+<div class="bibtex" id="bib-rusu-distillation-2015" > 
+<pre><code>@incollection{rusu-distillation-2015,
   title={Policy Distillation},
   author={Rusu, Andrei A and Colmenarejo, Sergio Gomez and Gulcehre, Caglar and Desjardins, Guillaume and Kirkpatrick, James and Pascanu, Razvan and Mnih, Volodymyr and Kavukcuoglu, Koray and Hadsell, Raia},
   journal={arXiv preprint arXiv:1511.06295},
