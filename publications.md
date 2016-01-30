@@ -18,7 +18,7 @@ id: publications
 </div> 
 <div class="bibtex" id="aaron-pixelrnn-2016" > 
 <pre><code>@article{aaron-pixelrnn-2016,
-   author = {{van den Oord}, A. and {Kalchbrenner}, N. and {Kavukcuoglu}, K.},
+   author = {van den Oord, A. and Kalchbrenner, N. and Kavukcuoglu, K.},
     title = "{Pixel Recurrent Neural Networks}",
   journal = {ArXiv preprint arXiv:1601.06759},
      year = 2016,
