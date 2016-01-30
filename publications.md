@@ -10,6 +10,42 @@ id: publications
 <ul> 
 
 <li> 
+<div id="aaron-pixelrnn-2016">Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu."<B>Pixel Recurrent Neural Networks</B>", 2016.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1601.06759.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('aaron-pixelrnn-2016');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="aaron-pixelrnn-2016" > 
+<pre><code>@article{aaron-pixelrnn-2016,
+   author = {{van den Oord}, A. and {Kalchbrenner}, N. and {Kavukcuoglu}, K.
+	},
+    title = "{Pixel Recurrent Neural Networks}",
+  journal = {ArXiv preprint arXiv:1601.06759},
+     year = 2016,
+}
+</code></pre></div> 
+</li>
+
+<li> 
+<div id="rusu-distillation-2015">Andrei A. Rusu, Sergio Gomez Colmenarejo, Caglar Gulcehre, Guillaume Desjardins, James Kirkpatrick, Razvan Pascanu, Volodymyr Mnih, Koray Kavukcuoglu, Raia Hadsell."<B>Policy Distillation</B>", 2015.
+ 
+<br> 
+<a href="http://arxiv.org/pdf/1511.06295.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('rusu-distillation-2015');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="rusu-distillation-2015" > 
+<pre><code>@article{rusu-distillation-2015,
+  title={Policy Distillation},
+  author={Rusu, Andrei A and Colmenarejo, Sergio Gomez and Gulcehre, Caglar and Desjardins, Guillaume and Kirkpatrick, James and Pascanu, Razvan and Mnih, Volodymyr and Kavukcuoglu, Koray and Hadsell, Raia},
+  journal={arXiv preprint arXiv:1511.06295},
+  year={2015}
+}
+</code></pre></div> 
+</li> 
+
+
+<li> 
 <div id="desjardins-natural-2015">Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, Koray Kavukcuoglu."<B>Natural Neural Networks</B>", in <EM>NIPS</EM>, 2015.
  
 <br> 
