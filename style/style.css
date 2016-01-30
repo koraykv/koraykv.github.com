@@ -127,3 +127,7 @@ hr{
 .bibli ul li{
   margin-bottom: 10px;
 }
+
+.bibli ul li:hover {
+  background-color:#AAAACC;
+}
