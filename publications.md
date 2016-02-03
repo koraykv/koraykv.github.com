@@ -49,7 +49,7 @@ id: publications
 </li>
 
 <li> 
-<div id="rusu-distillation-2015">Andrei A. Rusu, Sergio Gomez Colmenarejo, Caglar Gulcehre, Guillaume Desjardins, James Kirkpatrick, Razvan Pascanu, Volodymyr Mnih, Koray Kavukcuoglu, Raia Hadsell."<B>Policy Distillation</B>", 2015.
+<div id="rusu-distillation-2015">Andrei A. Rusu, Sergio Gomez Colmenarejo, Caglar Gulcehre, Guillaume Desjardins, James Kirkpatrick, Razvan Pascanu, Volodymyr Mnih, Koray Kavukcuoglu, Raia Hadsell."<B>Policy Distillation</B>", in <em>ICLR</em>, 2016.
  
 <br> 
 <a href="http://arxiv.org/pdf/1511.06295.pdf">Arxiv</a>
