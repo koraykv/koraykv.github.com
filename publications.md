@@ -16,6 +16,10 @@ id: publications
 <br>
 <a href="http://arxiv.org/pdf/1602.01783.pdf">Arxiv</a>
 <a href="#" onclick="toggle_visibility('bib-mnih-asyncrl-2016');return false;">bibtex</a> 
+<a href="https://youtu.be/0xo1Ldx3L5Q">TORCS Video</a>
+<a href="https://youtu.be/Ajjc08-iPx8">MuJoCo Video</a>
+<a href="https://youtu.be/nMR5mjCFZCw">Labyrinth Video</a>
+
 </div> 
 <div class="bibtex" id="bib-mnih-asyncrl-2016" > 
 <pre><code>@article{mnih-asyncrl-2016,
