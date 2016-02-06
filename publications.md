@@ -19,9 +19,9 @@ id: publications
 </div> 
 <div class="bibtex" id="bib-mnih-asyncrl-2016" > 
 <pre><code>@article{mnih-asyncrl-2016,
-	Author = {{Mnih}, V. and {Puigdom{\`e}nech Badia}, A. and {Mirza}, M. and 
-	{Graves}, A. and {Lillicrap}, T.~P. and {Harley}, T. and {Silver}, D. and 
-	{Kavukcuoglu}, K.},
+	Author = {Mnih, V. and Puigdomenech Badia, A. and Mirza, M. and 
+	Graves, A. and Lillicrap, T.~P. and Harley, T. and Silver, D. and 
+	Kavukcuoglu, K.},
     	title = "{Asynchronous Methods for Deep Reinforcement Learning}",
 	journal = {ArXiv preprint arXiv:1602.01783},
      	year = {2016}}
