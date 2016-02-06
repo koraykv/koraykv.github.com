@@ -9,6 +9,25 @@ id: publications
 <div class="bibli"> 
 <ul> 
 
+
+<li> 
+<div id="mnih-asyncrl-2016">Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu."<B>Asynchronous Methods for Deep Reinforcement Learning</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1602.01783.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-mnih-asyncrl-2016');return false;">bibtex</a> 
+</div> 
+<div class="bibtex" id="bib-mnih-asyncrl-2016" > 
+<pre><code>@article{mnih-asyncrl-2016,
+	Author = {{Mnih}, V. and {Puigdom{\`e}nech Badia}, A. and {Mirza}, M. and 
+	{Graves}, A. and {Lillicrap}, T.~P. and {Harley}, T. and {Silver}, D. and 
+	{Kavukcuoglu}, K.},
+    	title = "{Asynchronous Methods for Deep Reinforcement Learning}",
+	journal = {ArXiv preprint arXiv:1602.01783},
+     	year = {2016}}
+</code></pre></div> 
+</li>
+
 <li> 
 <div id="silver-alphago-2016">David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, Demis Hassabis."<B>Mastering the game of Go with deep neural networks and tree search</B>", in Nature 529, 484–489, 2016.
  
