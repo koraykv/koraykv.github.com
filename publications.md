@@ -38,7 +38,6 @@ id: publications
 <br>
 <a href="http://www.deepmind.com/alpha-go.html">Web</a>
 <a href="http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html">Nature</a>
-<a href="https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf">PDF</a>
 <a href="#" onclick="toggle_visibility('bib-silver-alphago-2016');return false;">bibtex</a> 
 </div> 
 <div class="bibtex" id="bib-silver-alphago-2016" > 
