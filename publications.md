@@ -14,7 +14,7 @@ id: publications
  
 <br>
 <a href="http://arxiv.org/pdf/1602.02660.pdf">Arxiv</a>
-<a href="#" onclick="toggle_visibility('bib-mnih-asyncrl-2016');return false;">bibtex</a> 
+<a href="#" onclick="toggle_visibility('bib-dieleman-cyclic-2016');return false;">bibtex</a> 
 
 </div> 
 <div class="bibtex" id="bib-dieleman-cyclic-2016" > 
