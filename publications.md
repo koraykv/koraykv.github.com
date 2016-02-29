@@ -9,6 +9,23 @@ id: publications
 <div class="bibli"> 
 <ul> 
 
+<li> 
+<div id="dieleman-cyclic-2016">Sander Dieleman, Jeffrey De Fauw and Koray Kavukcuoglu."<B>Exploiting Cyclic Symmetry in Convolutional Neural Networks</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1602.02660.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-mnih-asyncrl-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-dieleman-cyclic-2016" > 
+<pre><code>@article{dieleman-cyclic-2016,
+  title={Exploiting Cyclic Symmetry in Convolutional Neural Networks},
+  author={Dieleman, Sander and De Fauw, Jeffrey and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1602.02660},
+  year={2016}
+}
+</code></pre></div> 
+</li>
 
 <li> 
 <div id="mnih-asyncrl-2016">Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu."<B>Asynchronous Methods for Deep Reinforcement Learning</B>", 2016.
