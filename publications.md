@@ -10,7 +10,27 @@ id: publications
 <ul> 
 
 <li> 
-<div id="dieleman-cyclic-2016">Sander Dieleman, Jeffrey De Fauw and Koray Kavukcuoglu."<B>Exploiting Cyclic Symmetry in Convolutional Neural Networks</B>", 2016.
+<div id="eslami-air-2016">S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa,  Koray Kavukcuoglu, Geoffrey E. Hinton."<B>Attend, Infer, Repeat: Fast Scene Understanding with Generative Models</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1603.08575.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-eslami-air-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-eslami-air-2016" > 
+<pre><code>@article{eslami-air-2016,
+  title={Attend, Infer, Repeat: Fast Scene Understanding with Generative Models},
+  author={Eslami, SM and Heess, Nicolas and Weber, Theophane and Tassa, Yuval and Kavukcuoglu, Koray and Hinton, Geoffrey E},
+  journal={arXiv preprint arXiv:1603.08575},
+  year={2016}
+}
+}
+</code></pre></div> 
+</li>
+
+
+<li> 
+<div id="dieleman-cyclic-2016">Sander Dieleman, Jeffrey De Fauw and Koray Kavukcuoglu."<B>Exploiting Cyclic Symmetry in Convolutional Neural Networks</B>", in <em>ICML</em>, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1602.02660.pdf">Arxiv</a>
@@ -28,7 +48,7 @@ id: publications
 </li>
 
 <li> 
-<div id="mnih-asyncrl-2016">Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu."<B>Asynchronous Methods for Deep Reinforcement Learning</B>", 2016.
+<div id="mnih-asyncrl-2016">Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu."<B>Asynchronous Methods for Deep Reinforcement Learning</B>", in <em>ICML</em>, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1602.01783.pdf">Arxiv</a>
@@ -71,7 +91,7 @@ id: publications
 </li>
 
 <li> 
-<div id="aaron-pixelrnn-2016">Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu."<B>Pixel Recurrent Neural Networks</B>", 2016.
+<div id="aaron-pixelrnn-2016">Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu."<B>Pixel Recurrent Neural Networks</B>", in <em>ICML</em>, 2016.
  
 <br> 
 <a href="http://arxiv.org/pdf/1601.06759.pdf">Arxiv</a>
