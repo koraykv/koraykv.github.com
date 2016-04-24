@@ -22,9 +22,7 @@ id: publications
   title={Attend, Infer, Repeat: Fast Scene Understanding with Generative Models},
   author={Eslami, SM and Heess, Nicolas and Weber, Theophane and Tassa, Yuval and Kavukcuoglu, Koray and Hinton, Geoffrey E},
   journal={arXiv preprint arXiv:1603.08575},
-  year={2016}
-}
-}
+  year={2016}}
 </code></pre></div> 
 </li>
 
