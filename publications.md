@@ -10,6 +10,57 @@ id: publications
 <ul> 
 
 <li> 
+<div id="sasha-straw-2016">Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, Koray Kavukcuoglu."<B>Strategic Attentive Writer for Learning Macro-Actions</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1606.04695.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-sasha-straw-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-sasha-straw-2016" > 
+<pre><code>@article{sasha-straw-2016,
+  title={Strategic Attentive Writer for Learning Macro-Actions},
+  author={Vezhnevets, Alexander (Sasha) and Mnih, Volodymyr and Agapiou, John and Osindero, Simon and Graves, Alex and Vinyals, Oriol and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1606.04695},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
+<div id="rusu-progressive-2016">Andrei A. Rusu, Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell."<B>Progressive Neural Networks</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1606.04671.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-rusu-progressive-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-rusu-progressive-2016" > 
+<pre><code>@article{rusu-progressive-2016,
+  title={Progressive Neural Networks},
+  author={Rusu, Andrei A. and Rabinowitz, Neil C. and Desjardins, Guillaume and Soyer, Hubert and Kirkpatrick, James and Kavukcuoglu, Koray and Pascanu, Razvan and Hadsell, Raia},
+  journal={arXiv preprint arXiv:1606.04671},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
+<div id="vinyals-matchnet-2016">Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra."<B>Matching Networks for One Shot Learning</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1606.04080.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-vinyals-matchnet-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-vinyals-matchnet-2016" > 
+<pre><code>@article{vinyals-matchnet-2016,
+  title={Matching Networks for One Shot Learning},
+  author={Vinyals, Oriol and Blundell, Charles and Lillicrap, Timothy and  Kavukcuoglu, Koray and Wierstra, Daan},
+  journal={arXiv preprint arXiv:1606.04080},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="eslami-air-2016">S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa,  Koray Kavukcuoglu, Geoffrey E. Hinton."<B>Attend, Infer, Repeat: Fast Scene Understanding with Generative Models</B>", 2016.
  
 <br>
