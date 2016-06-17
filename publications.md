@@ -10,6 +10,23 @@ id: publications
 <ul> 
 
 <li> 
+<div id="aaron-pixelcnn-2016">Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu."<B>Conditional Image Generation with PixelCNN Decoders</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1606.05328.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-aaron-pixelcnn-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-aaron-pixelcnn-2016" > 
+<pre><code>@article{aaron-pixelcnn-2016,
+  title={Conditional Image Generation with PixelCNN Decoders},
+  author={Oord, Aaron van den and Kalchbrenner, Nal and Vinyals, Oriol and Espeholt, Lasse and Graves, Alex and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1606.05328},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="sasha-straw-2016">Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, Koray Kavukcuoglu."<B>Strategic Attentive Writer for Learning Macro-Actions</B>", 2016.
  
 <br>
