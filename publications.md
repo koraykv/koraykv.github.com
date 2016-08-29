@@ -10,6 +10,23 @@ id: publications
 <ul> 
 
 <li> 
+<div id="jaderberg-dni-2016">Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu."<B>Decoupled Neural Interfaces using Synthetic Gradients</B>", 2016.
+ 
+<br>
+<a href="http://arxiv.org/pdf/1608.05343.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-jaderberg-dni-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-jaderberg-dni-2016" > 
+<pre><code>@article{jaderberg-dni-2016,
+  title={Decoupled Neural Interfaces using Synthetic Gradients},
+  author={Jaderberg, Max and Czarnecki, Wojciech Marian and Osindero, Simon and Vinyals, Oriol and Graves, Alex and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1608.05343},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="aaron-pixelcnn-2016">Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu."<B>Conditional Image Generation with PixelCNN Decoders</B>", 2016.
  
 <br>
