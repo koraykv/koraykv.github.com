@@ -7,7 +7,41 @@ id: publications
 # Publications
 
 <div class="bibli"> 
-<ul> 
+<ul>
+
+<li> 
+<div id="nal-bytenet-2016">Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, Koray Kavukcuoglu."<B>Neural Machine Translation in Linear Time</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1610.10099">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-nal-bytenet-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-nal-bytenet-2016" > 
+<pre><code>@article{nal-bytenet-2016,
+  title={Neural Machine Translation in Linear Time},
+  author={Kalchbrenner, Nal and Espeholt, Lasse and Simonyan, Karen and Oord, Aaron van den and Graves, Alex and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1610.10099},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
+<div id="nal-vpn-2016">Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu."<B>Video Pixel Networks</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1610.00527">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-nal-vpn-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-nal-vpn-2016" > 
+<pre><code>@article{nal-vpn-2016,
+  title={Video Pixel Networks},
+  author={Kalchbrenner, Nal and Oord, Aaron van den and Simonyan, Karen and Danihelka, Ivo and Vinyals, Oriol and Graves, Alex and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1610.00527},
+  year={2016}}
+</code></pre></div> 
+</li>
 
 <li> 
 <div id="aaron-wavenet-2016">Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior and Koray Kavukcuoglu."<B>WaveNet: A Generative Model for Raw Audio</B>", 2016.
