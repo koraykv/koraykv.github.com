@@ -10,6 +10,23 @@ id: publications
 <ul>
 
 <li> 
+<div id="ziyu-acer-2016">Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas."<B>Sample Efficient Actor-Critic with Experience Replay</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1611.01224">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-ziyu-acer-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-ziyu-acer-2016" > 
+<pre><code>@article{ziyu-acer-2016,
+  title={Sample Efficient Actor-Critic with Experience Replay},
+  author={Wang, Ziyu and Bapst, Victor and Heess, Nicolas and Mnih, Volodymyr and  Munos, Remi and  Kavukcuoglu and Koray and de Freitas, Nando},
+  journal={arXiv preprint arXiv:1611.01224},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="nal-bytenet-2016">Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, Koray Kavukcuoglu."<B>Neural Machine Translation in Linear Time</B>", 2016.
  
 <br>
