@@ -14,6 +14,7 @@ id: publications
  
 <br>
 <a href="https://arxiv.org/pdf/1609.03499.pdf">Arxiv</a>
+<a href="https://deepmind.com/blog/wavenet-generative-model-raw-audio/">Blog</a>
 <a href="#" onclick="toggle_visibility('bib-aaron-wavenet-2016');return false;">bibtex</a> 
 
 </div> 
