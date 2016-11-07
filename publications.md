@@ -120,7 +120,7 @@ id: publications
 </li>
 
 <li> 
-<div id="aaron-pixelcnn-2016">Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu."<B>Conditional Image Generation with PixelCNN Decoders</B>", 2016.
+<div id="aaron-pixelcnn-2016">Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu."<B>Conditional Image Generation with PixelCNN Decoders</B>", in NIPS, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1606.05328.pdf">Arxiv</a>
@@ -137,7 +137,7 @@ id: publications
 </li>
 
 <li> 
-<div id="sasha-straw-2016">Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, Koray Kavukcuoglu."<B>Strategic Attentive Writer for Learning Macro-Actions</B>", 2016.
+<div id="sasha-straw-2016">Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, Koray Kavukcuoglu."<B>Strategic Attentive Writer for Learning Macro-Actions</B>", in NIPS, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1606.04695.pdf">Arxiv</a>
@@ -171,7 +171,7 @@ id: publications
 </li>
 
 <li> 
-<div id="vinyals-matchnet-2016">Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra."<B>Matching Networks for One Shot Learning</B>", 2016.
+<div id="vinyals-matchnet-2016">Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra."<B>Matching Networks for One Shot Learning</B>", in NIPS, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1606.04080.pdf">Arxiv</a>
@@ -188,7 +188,7 @@ id: publications
 </li>
 
 <li> 
-<div id="eslami-air-2016">S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa,  Koray Kavukcuoglu, Geoffrey E. Hinton."<B>Attend, Infer, Repeat: Fast Scene Understanding with Generative Models</B>", 2016.
+<div id="eslami-air-2016">S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa,  Koray Kavukcuoglu, Geoffrey E. Hinton."<B>Attend, Infer, Repeat: Fast Scene Understanding with Generative Models</B>", in NIPS, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1603.08575.pdf">Arxiv</a>
