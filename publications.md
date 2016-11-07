@@ -61,6 +61,30 @@ id: publications
 </li>
 
 <li> 
+<div id="graves-dnc-2016">Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, Demis Hassabis."<B>Hybrid computing using a neural network with dynamic external memory</B>", 2016.
+ 
+<br>
+<a href="http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html">Nature</a>
+<a href="https://deepmind.com/blog/differentiable-neural-computers/">Blog</a>
+<a href="http://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz">PDF</a>
+<a href="#" onclick="toggle_visibility('bib-graves-dnc-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-graves-dnc-2016" > 
+<pre><code>@article{graves-dnc-2016,
+	Author = {Graves, Alex and Wayne, Greg and Reynolds, Malcolm and Harley, Tim and Danihelka, Ivo and Grabska-Barwi{\'n}ska, Agnieszka and Colmenarejo, Sergio G{\'o}mez and Grefenstette, Edward and Ramalho, Tiago and Agapiou, John and Badia, Adri{\`a}Puigdom{\`e}nech and Hermann, Karl Moritz and Zwols, Yori and Ostrovski, Georg and Cain, Adam and King, Helen and Summerfield, Christopher and Blunsom, Phil and Kavukcuoglu, Koray and Hassabis, Demis},
+	Journal = {Nature},
+	Month = {10},
+	Number = {7626},
+	Pages = {471--476},
+	Title = {Hybrid computing using a neural network with dynamic external memory},
+	Volume = {538},
+	Year = {2016}}
+}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="aaron-wavenet-2016">Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior and Koray Kavukcuoglu."<B>WaveNet: A Generative Model for Raw Audio</B>", 2016.
  
 <br>
