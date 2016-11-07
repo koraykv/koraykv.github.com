@@ -10,6 +10,23 @@ id: publications
 <ul> 
 
 <li> 
+<div id="aaron-wavenet-2016">Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior and Koray Kavukcuoglu."<B>WaveNet: A Generative Model for Raw Audio</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1609.03499.pdf">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-aaron-wavenet-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-aaron-wavenet-2016" > 
+<pre><code>@article{aaron-wavenet-2016,
+  title={WaveNet: A Generative Model for Raw Audio},
+  author={Oord, Aaron van den and  Dieleman, Sander and  Zen, Heiga and  Simonyan, Karen and  Vinyals, Oriol and Graves, Alex and Kalchbrenner, Nal and  Senior, Andrew and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1609.03499},
+  year={2016}}
+</code></pre></div> 
+</li>
+
+<li> 
 <div id="jaderberg-dni-2016">Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu."<B>Decoupled Neural Interfaces using Synthetic Gradients</B>", 2016.
  
 <br>
