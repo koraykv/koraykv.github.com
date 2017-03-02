@@ -10,6 +10,63 @@ id: publications
 <ul>
 
 <li> 
+<div id="max-unreal-2016">Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David  Silver, Koray Kavukcuoglu"<B>Reinforcement learning with unsupervised auxiliary tasks</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1611.05397">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-max-unreal-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-max-unreal-2016" > 
+<pre><code>@article{max-unreal-2016,
+  title={Reinforcement learning with unsupervised auxiliary tasks},
+  author={Jaderberg, Max and Mnih, Volodymyr and Czarnecki, Wojciech Marian and Schaul, Tom and Leibo, Joel Z and Silver, David and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1611.05397},
+  year={2016}
+}
+</code></pre></div> 
+</li>
+
+
+<li> 
+<div id="piotr-nav-2016">Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy  Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, Raia Hadsell"<B>Learning to navigate in complex environments</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1611.03673">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-piotr-nav-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-piotr-nav-2016" > 
+<pre><code>@article{piotr-nav-2016,
+  title={Learning to navigate in complex environments},
+  author={Mirowski, Piotr and Pascanu, Razvan and Viola, Fabio and Soyer, Hubert and Ballard, Andy and Banino, Andrea and Denil, Misha and Goroshin, Ross and Sifre, Laurent and Kavukcuoglu, Koray and Kumaran, Dharshan and Hadsell, Raia},
+  journal={arXiv preprint arXiv:1611.03673},
+  year={2016}
+}
+</code></pre></div> 
+</li>
+
+
+<li> 
+<div id="brendan-pgq-2016">Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih."<B>PGQ: Combining policy gradient and Q-learning</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1611.01626">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-brendan-pgq-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-brendan-pgq-2016" > 
+<pre><code>@article{brendan-pgq-2016,
+  title={PGQ: Combining policy gradient and Q-learning},
+  author={O'Donoghue, Brendan and Munos, Remi and Kavukcuoglu, Koray and Mnih, Volodymyr},
+  journal={arXiv preprint arXiv:1611.01626},
+  year={2016}
+}
+</code></pre></div> 
+</li>
+
+
+<li> 
 <div id="ziyu-acer-2016">Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas."<B>Sample Efficient Actor-Critic with Experience Replay</B>", 2016.
  
 <br>
