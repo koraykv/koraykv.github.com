@@ -10,7 +10,7 @@ id: publications
 <ul>
 
 <li>
-<div id="graves-automated-curriculum-2017">Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, Koray Kavukcuoglu"<B>Automated Curriculum Learning for Neural Networks</B>", 2017.
+<div id="graves-automated-curriculum-2017">Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, Koray Kavukcuoglu. "<B>Automated Curriculum Learning for Neural Networks</B>", 2017.
  
 <br>
 <a href="https://arxiv.org/pdf/1704.03003 ">Arxiv</a>
@@ -28,7 +28,7 @@ id: publications
 </li>
 
 <li>
-<div id="sasha-fun-2017">Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu"<B>FeUdal Networks for Hierarchical Reinforcement Learning</B>", 2017.
+<div id="sasha-fun-2017">Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu. "<B>FeUdal Networks for Hierarchical Reinforcement Learning</B>", 2017.
  
 <br>
 <a href="https://arxiv.org/pdf/1703.01161">Arxiv</a>
@@ -46,7 +46,7 @@ id: publications
 </li>
 
 <li>
-<div id="wojciech-understand-dni-2017">Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, Koray Kavukcuoglu"<B>Understanding Synthetic Gradients and Decoupled Neural Interfaces</B>", 2017.
+<div id="wojciech-understand-dni-2017">Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, Koray Kavukcuoglu. "<B>Understanding Synthetic Gradients and Decoupled Neural Interfaces</B>", 2017.
  
 <br>
 <a href="https://arxiv.org/pdf/1703.00522">Arxiv</a>
@@ -64,7 +64,7 @@ id: publications
 </li>
 
 <li>
-<div id="peter-interaction-2016">Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu"<B>Interaction Networks for Learning about Objects, Relations and Physics</B>", 2016.
+<div id="peter-interaction-2016">Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu. "<B>Interaction Networks for Learning about Objects, Relations and Physics</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1612.00222">Arxiv</a>
@@ -82,7 +82,7 @@ id: publications
 </li>
 
 <li> 
-<div id="max-unreal-2016">Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David  Silver, Koray Kavukcuoglu"<B>Reinforcement learning with unsupervised auxiliary tasks</B>", 2016.
+<div id="max-unreal-2016">Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David  Silver, Koray Kavukcuoglu. "<B>Reinforcement learning with unsupervised auxiliary tasks</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1611.05397">Arxiv</a>
@@ -101,7 +101,7 @@ id: publications
 
 
 <li> 
-<div id="piotr-nav-2016">Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy  Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, Raia Hadsell"<B>Learning to navigate in complex environments</B>", 2016.
+<div id="piotr-nav-2016">Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy  Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, Raia Hadsell. "<B>Learning to navigate in complex environments</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1611.03673">Arxiv</a>
@@ -120,7 +120,7 @@ id: publications
 
 
 <li> 
-<div id="brendan-pgq-2016">Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih."<B>PGQ: Combining policy gradient and Q-learning</B>", 2016.
+<div id="brendan-pgq-2016">Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih. "<B>PGQ: Combining policy gradient and Q-learning</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1611.01626">Arxiv</a>
@@ -139,7 +139,7 @@ id: publications
 
 
 <li> 
-<div id="ziyu-acer-2016">Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas."<B>Sample Efficient Actor-Critic with Experience Replay</B>", 2016.
+<div id="ziyu-acer-2016">Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas. "<B>Sample Efficient Actor-Critic with Experience Replay</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1611.01224">Arxiv</a>
@@ -156,7 +156,7 @@ id: publications
 </li>
 
 <li> 
-<div id="nal-bytenet-2016">Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, Koray Kavukcuoglu."<B>Neural Machine Translation in Linear Time</B>", 2016.
+<div id="nal-bytenet-2016">Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, Koray Kavukcuoglu. "<B>Neural Machine Translation in Linear Time</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1610.10099">Arxiv</a>
@@ -173,7 +173,7 @@ id: publications
 </li>
 
 <li> 
-<div id="nal-vpn-2016">Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu."<B>Video Pixel Networks</B>", 2016.
+<div id="nal-vpn-2016">Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu. "<B>Video Pixel Networks</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1610.00527">Arxiv</a>
@@ -190,7 +190,7 @@ id: publications
 </li>
 
 <li> 
-<div id="graves-dnc-2016">Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, Demis Hassabis."<B>Hybrid computing using a neural network with dynamic external memory</B>", 2016.
+<div id="graves-dnc-2016">Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, Demis Hassabis. "<B>Hybrid computing using a neural network with dynamic external memory</B>", 2016.
  
 <br>
 <a href="http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html">Nature</a>
@@ -214,7 +214,7 @@ id: publications
 </li>
 
 <li> 
-<div id="aaron-wavenet-2016">Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior and Koray Kavukcuoglu."<B>WaveNet: A Generative Model for Raw Audio</B>", 2016.
+<div id="aaron-wavenet-2016">Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior and Koray Kavukcuoglu. "<B>WaveNet: A Generative Model for Raw Audio</B>", 2016.
  
 <br>
 <a href="https://arxiv.org/pdf/1609.03499.pdf">Arxiv</a>
@@ -232,7 +232,7 @@ id: publications
 </li>
 
 <li> 
-<div id="jaderberg-dni-2016">Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu."<B>Decoupled Neural Interfaces using Synthetic Gradients</B>", 2016.
+<div id="jaderberg-dni-2016">Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu. "<B>Decoupled Neural Interfaces using Synthetic Gradients</B>", 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1608.05343.pdf">Arxiv</a>
@@ -249,7 +249,7 @@ id: publications
 </li>
 
 <li> 
-<div id="aaron-pixelcnn-2016">Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu."<B>Conditional Image Generation with PixelCNN Decoders</B>", in NIPS, 2016.
+<div id="aaron-pixelcnn-2016">Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu. "<B>Conditional Image Generation with PixelCNN Decoders</B>", in NIPS, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1606.05328.pdf">Arxiv</a>
@@ -266,7 +266,7 @@ id: publications
 </li>
 
 <li> 
-<div id="sasha-straw-2016">Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, Koray Kavukcuoglu."<B>Strategic Attentive Writer for Learning Macro-Actions</B>", in NIPS, 2016.
+<div id="sasha-straw-2016">Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, Koray Kavukcuoglu. "<B>Strategic Attentive Writer for Learning Macro-Actions</B>", in NIPS, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1606.04695.pdf">Arxiv</a>
@@ -283,7 +283,7 @@ id: publications
 </li>
 
 <li> 
-<div id="rusu-progressive-2016">Andrei A. Rusu, Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell."<B>Progressive Neural Networks</B>", 2016.
+<div id="rusu-progressive-2016">Andrei A. Rusu, Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell. "<B>Progressive Neural Networks</B>", 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1606.04671.pdf">Arxiv</a>
@@ -300,7 +300,7 @@ id: publications
 </li>
 
 <li> 
-<div id="vinyals-matchnet-2016">Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra."<B>Matching Networks for One Shot Learning</B>", in NIPS, 2016.
+<div id="vinyals-matchnet-2016">Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra. "<B>Matching Networks for One Shot Learning</B>", in NIPS, 2016.
  
 <br>
 <a href="http://arxiv.org/pdf/1606.04080.pdf">Arxiv</a>
