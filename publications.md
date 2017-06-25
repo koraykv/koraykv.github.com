@@ -9,6 +9,78 @@ id: publications
 <div class="bibli"> 
 <ul>
 
+<li>
+<div id="graves-automated-curriculum-2017">Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, Koray Kavukcuoglu"<B>Automated Curriculum Learning for Neural Networks</B>", 2017.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1704.03003 ">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-graves-automated-curriculum-2017');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-graves-automated-curriculum-2017" > 
+<pre><code>@article{graves-automated-curriculum-2017,
+  title={Automated Curriculum Learning for Neural Networks},
+  author={Graves, Alex and Bellemare, Marc G. and Menick, Jacob and Munos, Remi and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1704.03003},
+  year={2017}
+}
+</code></pre></div> 
+</li>
+
+<li>
+<div id="sasha-fun-2017">Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu"<B>FeUdal Networks for Hierarchical Reinforcement Learning</B>", 2017.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1703.01161">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-sasha-fun-2017');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-sasha-fun-2017" > 
+<pre><code>@article{sasha-fun-2017,
+  title={FeUdal Networks for Hierarchical Reinforcement Learning},
+  author={Vezhnevets, Alexander Sasha and Osindero, Simon and Schaul, Tom and Heess, Nicolas and Jaderberg, Max and Silver, David and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1703.01161},
+  year={2017}
+}
+</code></pre></div> 
+</li>
+
+<li>
+<div id="wojciech-understand-dni-2017">Wojciech Marian Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, Koray Kavukcuoglu"<B>Understanding Synthetic Gradients and Decoupled Neural Interfaces</B>", 2017.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1703.00522">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-wojciech-understand-dni-2017');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-wojciech-understand-dni-2017" > 
+<pre><code>@article{wojciech-understand-dni-2017,
+  title={Understanding Synthetic Gradients and Decoupled Neural Interfaces},
+  author={Czarnecki, Wojciech Marian and Świrszcz, Grzegorz and Jaderberg, Max and Osindero, Simon and Vinyals, Oriol and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1703.00522},
+  year={2017}
+}
+</code></pre></div> 
+</li>
+
+<li>
+<div id="peter-interaction-2016">Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu"<B>Interaction Networks for Learning about Objects, Relations and Physics</B>", 2016.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1612.00222">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-peter-interaction-2016');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-peter-interaction-2016" > 
+<pre><code>@article{peter-interaction-2016,
+  title={Interaction Networks for Learning about Objects, Relations and Physics},
+  author={Battaglia, Peter W. and Pascanu, Razvan and Lai, Matthew and Rezende, Danilo and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1612.00222},
+  year={2016}
+}
+</code></pre></div> 
+</li>
+
 <li> 
 <div id="max-unreal-2016">Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David  Silver, Koray Kavukcuoglu"<B>Reinforcement learning with unsupervised auxiliary tasks</B>", 2016.
  
