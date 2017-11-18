@@ -10,6 +10,42 @@ id: publications
 <ul>
 
 <li>
+<div id="aaron-neural-discrete-2017">Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu. "<B>Neural Discrete Representation Learning</B>", 2017.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1711.00937 ">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-aaron-neural-discrete-2017');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-aaron-neural-discrete-2017" > 
+<pre><code>@article{aaron-neural-discrete-2017,
+  title={Neural Discrete Representation Learning},
+  author={van den Oord, Aaron and Vinyals, Oriol and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1711.00937},
+  year={2017}
+}
+</code></pre></div> 
+</li>
+
+<li>
+<div id="hanxiao-architecture-search-2017">Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando, Koray Kavukcuoglu. "<B>Hierarchical Representations for Efficient Architecture Search</B>", 2017.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1711.00436 ">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-hanxiao-architecture-search-2017');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-hanxiao-architecture-search-2017" > 
+<pre><code>@article{hanxiao-architecture-search-2017,
+  title={Hierarchical Representations for Efficient Architecture Search},
+  author={Liu, Hanxiao and Simonyan, Karen and Vinyals, Oriol and Fernando, Chrisantha and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1711.00436},
+  year={2017}
+}
+</code></pre></div> 
+</li>
+
+<li>
 <div id="graves-automated-curriculum-2017">Alex Graves, Marc G. Bellemare, Jacob Menick, Remi Munos, Koray Kavukcuoglu. "<B>Automated Curriculum Learning for Neural Networks</B>", 2017.
  
 <br>
