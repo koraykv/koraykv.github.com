@@ -6,7 +6,9 @@ id: code
 
 # Code
 
-For my current research I use [Torch7](http://www.torch.ch), which I am one of the core contributors.
+# Torch7
+
+[Ronan Collobert](http://ronan.collobert.com) from [Idiap](http://www.idiap.ch), [Clement Farabet](http://clement.farabet.net) from [NYU](http://www.nyu.edu) and myself are developing the new version of well-known machine learning library [Torch5](http://torch5.sf.net), an efficient machine learning environment. If you are interested in trying one of the [fastest machine learning library](http://cs.nyu.edu/~koray/files/2011_torch7_nipsw.pdf) check out [Torch7](http://www.torch.ch). 
 
 All the code that I wrote during my PhD for different papers are actually part of a single library that we have developed at CBLL. It is written in [Lush](http://lush.sf.net), an object oriented Lisp derivative language with an integrated compiler that converts [Lush](http://lush.sf.net) code to C code and generates very efficient native code. In order to be able to run our code, you need to install [Lush](http://lush.sf.net) on your system.
 
