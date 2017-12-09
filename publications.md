@@ -10,6 +10,44 @@ id: publications
 <ul>
 
 <li>
+<div id="aaron-parallel-wavenet-2017">Aaron van den Oord, Yazhe Li, Igor Babuschkin, Karen Simonyan, Oriol Vinyals, Koray Kavukcuoglu, George van den Driessche, Edward Lockhart, Luis C. Cobo, Florian Stimberg, Norman Casagrande, Dominik Grewe, Seb Noury, Sander Dieleman, Erich Elsen, Nal Kalchbrenner, Heiga Zen, Alex Graves, Helen King, Tom Walters, Dan Belov, Demis Hassabis. "<B>Parallel WaveNet: Fast High-Fidelity Speech Synthesis</B>", 2017.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1711.10433  ">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-aaron-parallel-wavenet-2017');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-aaron-parallel-wavenet-2017" > 
+<pre><code>
+@article{aaron-parallel-wavenet-2017,
+  title={Parallel WaveNet: Fast High-Fidelity Speech Synthesis},
+  author={Oord, Aaron van den and Li, Yazhe and Babuschkin, Igor and Simonyan, Karen and Vinyals, Oriol and Kavukcuoglu, Koray and Driessche, George van den and Lockhart, Edward and Cobo, Luis C and Stimberg, Florian and Casagrande, Norman and Grewe, Dominik and Noury, Seb and Dieleman, Sander and Elsen, Erich and Kalchbrenner, Nal and Zen, Heiga and Graves, Alex and King, Helen and Walters, Tom and Belov, Dan and Hassabis, Demis},
+  journal={arXiv preprint arXiv:1711.10433},
+  year={2017}
+}
+</code></pre></div> 
+</li>
+
+<li>
+<div id="max-pbt-2017">Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu. "<B>Population Based Training of Neural Networks</B>", 2017.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1711.09846  ">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-max-pbt-2017');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-max-pbt-2017" > 
+<pre><code>
+@article{max-pbt-2017,
+  title={Population Based Training of Neural Networks},
+  author={Jaderberg, Max and Dalibard, Valentin and Osindero, Simon and Czarnecki, Wojciech M and Donahue, Jeff and Razavi, Ali and Vinyals, Oriol and Green, Tim and Dunning, Iain and Simonyan, Karen and Fernando, Chrisantha and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1711.09846},
+  year={2017}
+}
+</code></pre></div> 
+</li>
+
+<li>
 <div id="aaron-neural-discrete-2017">Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu. "<B>Neural Discrete Representation Learning</B>", 2017.
  
 <br>
