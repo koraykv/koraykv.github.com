@@ -10,6 +10,96 @@ id: publications
 <ul>
 
 <li>
+<div id="mirowski-navigation-2018">Piotr Mirowski, Matthew Koichi Grimes, Mateusz Malinowski, Karl Moritz Hermann, Keith Anderson, Denis Teplyashin, Karen Simonyan, Koray Kavukcuoglu, Andrew Zisserman, Raia Hadsell."<B>Learning to Navigate in Cities Without a Map</B>", 2018.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1804.00168">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-mirowski-navigation-2018');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-mirowski-navigation-2018" > 
+<pre><code>
+@article{mirowski-navigation-2018,
+  title={Learning to Navigate in Cities Without a Map},
+  author={Mirowski, Piotr and Grimes, Matthew Koichi and Malinowski, Mateusz and Hermann, Karl Moritz and Anderson, Keith and Teplyashin, Denis and Simonyan, Karen and Kavukcuoglu, Koray and Zisserman, Andrew and Hadsell, Raia},
+  journal={arXiv preprint arXiv:1804.00168},
+  year={2018}
+}
+
+</code></pre></div> 
+</li>
+
+<li>
+<div id="greg-predictive-memory-2018">Greg Wayne, ChiaChun Hung, David Amos, Mehdi Mirza, Arun Ahuja, Agnieszka Grabska-Barwinska, Jack Rae, Piotr Mirowski, Joel Z Leibo, Adam Santoro, Mevlana Gemici, Malcolm Reynolds, Tim Harley, Josh Abramson, Shakir Mohamed, Danilo Rezende, David Saxton, Adam Cain, Chloe Hillier, David Silver, Koray Kavukcuoglu, Matt Botvinick, Demis Hassabis, Timothy Lillicrap."<B>Unsupervised Predictive Memory in a Goal-Directed Agent</B>", 2018.
+ 
+<br>
+<a href="https://arxiv.org/abs/1803.10760">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-greg-predictive-memory-2018');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-greg-predictive-memory-2018" > 
+<pre><code>
+@ARTICLE{greg-predictive-memory-2018,
+   author = {{Wayne}, G. and {Hung}, C.-C. and {Amos}, D. and {Mirza}, M. and 
+	{Ahuja}, A. and {Grabska-Barwinska}, A. and {Rae}, J. and {Mirowski}, P. and 
+	{Leibo}, J.~Z. and {Santoro}, A. and {Gemici}, M. and {Reynolds}, M. and 
+	{Harley}, T. and {Abramson}, J. and {Mohamed}, S. and {Rezende}, D. and 
+	{Saxton}, D. and {Cain}, A. and {Hillier}, C. and {Silver}, D. and 
+	{Kavukcuoglu}, K. and {Botvinick}, M. and {Hassabis}, D. and 
+	{Lillicrap}, T.},
+    title = "{Unsupervised Predictive Memory in a Goal-Directed Agent}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1803.10760},
+ primaryClass = "cs.LG",
+ keywords = {Computer Science - Learning, Statistics - Machine Learning},
+     year = 2018,
+    month = mar,
+}
+
+</code></pre></div> 
+</li>
+
+<li>
+<div id="kalchbrenner-wavernn-2018">Nal Kalchbrenner, Erich Elsen, Karen Simonyan, Seb Noury, Norman Casagrande, Edward Lockhart, Florian Stimberg, Aaron van den Oord, Sander Dieleman, Koray Kavukcuoglu."<B>Efficient Neural Audio Synthesis</B>", 2018.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1802.08435">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-kalchbrenner-wavernn-2018');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-kalchbrenner-wavernn-2018" > 
+<pre><code>
+@article{kalchbrenner-wavernn-2018,
+  title={Efficient Neural Audio Synthesis},
+  author={Kalchbrenner, Nal and Elsen, Erich and Simonyan, Karen and Noury, Seb and Casagrande, Norman and Lockhart, Edward and Stimberg, Florian and Oord, Aaron van den and Dieleman, Sander and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1802.08435},
+  year={2018}
+}
+</code></pre></div> 
+</li>
+
+<li>
+<div id="espeholt-impala-2018">Lasse Espeholt, Hubert Soyer, Remi Munos, Karen Simonyan, Volodymir Mnih, Tom Ward, Yotam Doron, Vlad Firoiu, Tim Harley, Iain Dunning, Shane Legg, Koray Kavukcuoglu."<B>IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures</B>", 2018.
+ 
+<br>
+<a href="https://arxiv.org/pdf/1802.01561">Arxiv</a>
+<a href="#" onclick="toggle_visibility('bib-espeholt-impala-2018');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-espeholt-impala-2018" > 
+<pre><code>
+@article{espeholt-impala-2018,
+  title={IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures},
+  author={Espeholt, Lasse and Soyer, Hubert and Munos, Remi and Simonyan, Karen and Mnih, Volodymir and Ward, Tom and Doron, Yotam and Firoiu, Vlad and Harley, Tim and Dunning, Iain and others},
+  journal={arXiv preprint arXiv:1802.01561},
+  year={2018}
+}
+</code></pre></div> 
+</li>
+
+
+<li>
 <div id="aaron-parallel-wavenet-2017">Aaron van den Oord, Yazhe Li, Igor Babuschkin, Karen Simonyan, Oriol Vinyals, Koray Kavukcuoglu, George van den Driessche, Edward Lockhart, Luis C. Cobo, Florian Stimberg, Norman Casagrande, Dominik Grewe, Seb Noury, Sander Dieleman, Erich Elsen, Nal Kalchbrenner, Heiga Zen, Alex Graves, Helen King, Tom Walters, Dan Belov, Demis Hassabis. "<B>Parallel WaveNet: Fast High-Fidelity Speech Synthesis</B>", 2017.
  
 <br>
