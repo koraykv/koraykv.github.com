@@ -39,23 +39,12 @@ id: publications
 </div> 
 <div class="bibtex" id="bib-greg-predictive-memory-2018" > 
 <pre><code>
-@ARTICLE{greg-predictive-memory-2018,
-   author = {{Wayne}, G. and {Hung}, C.-C. and {Amos}, D. and {Mirza}, M. and 
-	{Ahuja}, A. and {Grabska-Barwinska}, A. and {Rae}, J. and {Mirowski}, P. and 
-	{Leibo}, J.~Z. and {Santoro}, A. and {Gemici}, M. and {Reynolds}, M. and 
-	{Harley}, T. and {Abramson}, J. and {Mohamed}, S. and {Rezende}, D. and 
-	{Saxton}, D. and {Cain}, A. and {Hillier}, C. and {Silver}, D. and 
-	{Kavukcuoglu}, K. and {Botvinick}, M. and {Hassabis}, D. and 
-	{Lillicrap}, T.},
-    title = "{Unsupervised Predictive Memory in a Goal-Directed Agent}",
+@article{greg-predictive-memory-2018,
+   author = {Wayne, Greg and Hung, Chia-Chun and Amos, David and Mirza, Mehdi and Ahuja, Arun and Grabska-Barwinska, Agnieszka and Rae, Jack and Mirowski, Piotr and Leibo, Joel Z and Santoro, Adam and Gemici, Mevlana and Reynolds, Malcolm and Harley, Tim and Abramson, Josh and Mohamed, Shakir and Rezende, Danilo and Saxton, David and Cain, Adam and Hiller, Chloe and Silver, David and Kavukcuoglu, Koray and Botvinick, Matt and Hassabis, Demis and Lillicrap, Timothy},
+    title = {Unsupervised Predictive Memory in a Goal-Directed Agent},
   journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1803.10760},
- primaryClass = "cs.LG",
- keywords = {Computer Science - Learning, Statistics - Machine Learning},
-     year = 2018,
-    month = mar,
-}
+     year = {2018}
+ }
 
 </code></pre></div> 
 </li>
