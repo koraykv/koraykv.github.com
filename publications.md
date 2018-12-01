@@ -10,6 +10,88 @@ id: publications
 <ul>
 
 <li>
+<div id="jaderberg-ctf-2018">Max Jaderberg, Wojciech M. Czarnecki, Iain Dunning, Luke Marris, Guy Lever, Antonio Garcia Castaneda, Charles Beattie, Neil C. Rabinowitz, Ari S. Morcos, Avraham Ruderman, Nicolas Sonnerat, Tim Green, Louise Deason, Joel Z. Leibo, David Silver, Demis Hassabis, Koray Kavukcuoglu, Thore Graepel."<B>Human-level performance in first-person multiplayer games with population-based deep reinforcement learning</B>", 2018.
+ 
+<br>
+<a href="https://arxiv.org/abs/1807.01281">Arxiv</a>
+<a href="https://deepmind.com/blog/capture-the-flag/">Blog</a>
+<a href="#" onclick="toggle_visibility('bib-jaderberg-ctf-2018');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-jaderberg-ctf-2018" > 
+<pre><code>
+@article {jaderberg-ctf-2018,
+    title={Human-level performance in first-person multiplayer games with population-based deep reinforcement learning},
+    author={Max Jaderberg and Wojciech M. Czarnecki and Iain Dunning and Luke Marris and Guy Lever and Antonio Garcia Castaneda and Charles Beattie and Neil C. Rabinowitz and Ari S. Morcos and Avraham Ruderman and Nicolas Sonnerat and Tim Green and Louise Deason and Joel Z. Leibo and David Silver and Demis Hassabis and Koray Kavukcuoglu and Thore Graepel},
+    year={2018},
+    eprint={1807.01281},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+
+</code></pre></div> 
+</li>
+
+<li>
+<div id="eslami-nsr-2018">Andrea Banino, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap, Piotr Mirowski, Alexander Pritzel, Martin J Chadwick, Thomas Degris, Joseph Modayil, Greg Wayne, Hubert Soyer, Fabio Viola, Brian Zhang, Ross Goroshin, Neil Rabinowitz, Razvan Pascanu, Charlie Beattie, Stig Petersen, Amir Sadik, Stephen Gaffney, Helen King, Koray Kavukcuoglu, Demis Hassabis, Raia Hadsell, Dharshan Kumaran."<B>Vector-based navigation using grid-like representations in artificial agents</B>", 2018.
+ 
+<br>
+<a href="http://science.sciencemag.org/content/360/6394/1204">Science</a>
+<a href="https://deepmind.com/blog/neural-scene-representation-and-rendering/">Blog</a>
+<a href="http://science.sciencemag.org/content/360/6394/1204.full.pdf">PDF</a>
+<a href="#" onclick="toggle_visibility('bib-eslami-nsr-2018');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-eslami-nsr-2018" > 
+<pre><code>
+@article {eslami-nsr-2018,
+	author = {Eslami, S. M. Ali and Jimenez Rezende, Danilo and Besse, Frederic and Viola, Fabio and Morcos, Ari S. and Garnelo, Marta and Ruderman, Avraham and Rusu, Andrei A. and Danihelka, Ivo and Gregor, Karol and Reichert, David P. and Buesing, Lars and Weber, Theophane and Vinyals, Oriol and Rosenbaum, Dan and Rabinowitz, Neil and King, Helen and Hillier, Chloe and Botvinick, Matt and Wierstra, Daan and Kavukcuoglu, Koray and Hassabis, Demis},
+	title = {Neural scene representation and rendering},
+	volume = {360},
+	number = {6394},
+	pages = {1204--1210},
+	year = {2018},
+	doi = {10.1126/science.aar6170},
+	publisher = {American Association for the Advancement of Science},
+	issn = {0036-8075},
+	URL = {http://science.sciencemag.org/content/360/6394/1204},
+	eprint = {http://science.sciencemag.org/content/360/6394/1204.full.pdf},
+	journal = {Science}
+}
+
+</code></pre></div> 
+</li>
+
+<li>
+<div id="banino-vector-2018">Andrea Banino, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap, Piotr Mirowski, Alexander Pritzel, Martin J Chadwick, Thomas Degris, Joseph Modayil, Greg Wayne, Hubert Soyer, Fabio Viola, Brian Zhang, Ross Goroshin, Neil Rabinowitz, Razvan Pascanu, Charlie Beattie, Stig Petersen, Amir Sadik, Stephen Gaffney, Helen King, Koray Kavukcuoglu, Demis Hassabis, Raia Hadsell, Dharshan Kumaran."<B>Vector-based navigation using grid-like representations in artificial agents</B>", 2018.
+ 
+<br>
+<a href="https://www.nature.com/articles/s41586-018-0102-6.epdf?author_access_token=BjM-5BdGxd14c17YFA6PsdRgN0jAjWel9jnR3ZoTv0OEfySMT4t78PpPpCS7uExW3njb8Q4UlgcwRM32WwBCKZs73SThwkfI42wHhFEtJM-Y7sQxDsR1cR7_C9Kq1GwuxGJn46kzRnujvrDMGzc4TQ%3D%3D">Nature</a>
+<a href="https://deepmind.com/blog/grid-cells/">Blog</a>
+<a href="https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf">PDF</a>
+<a href="#" onclick="toggle_visibility('bib-banino-vector-2018');return false;">bibtex</a> 
+
+</div> 
+<div class="bibtex" id="bib-banino-vector-2018" > 
+<pre><code>
+@article{banino-vector-2018,
+  author = {Banino, Andrea and Barry, Caswell and Uria, Benigno and Blundell, Charles and Lillicrap, Timothy and Mirowski, Piotr and Pritzel, Alexander and Chadwick, Martin J. and Degris, Thomas and Modayil, Joseph and Wayne, Greg and Soyer, Hubert and Viola, Fabio and Zhang, Brian and Goroshin, Ross and Rabinowitz, Neil and Pascanu, Razvan and Beattie, Charlie and Petersen, Stig and Sadik, Amir and Gaffney, Stephen and King, Helen and Kavukcuoglu, Koray and Hassabis, Demis and Hadsell, Raia and Kumaran, Dharshan},
+  year = {2018},
+  title = {Vector-based navigation using grid-like representations in artificial agents},
+  journal = {Nature},
+  publisher = {Nature Publishing Group},
+  issn = {0028-0836},
+  doi = {10.1038/s41586-018-0102-6},
+  volume = {557},
+  month = {5},
+  pages = {429--433},
+  number = {7705}
+}
+
+</code></pre></div> 
+</li>
+
+<li>
 <div id="mirowski-navigation-2018">Piotr Mirowski, Matthew Koichi Grimes, Mateusz Malinowski, Karl Moritz Hermann, Keith Anderson, Denis Teplyashin, Karen Simonyan, Koray Kavukcuoglu, Andrew Zisserman, Raia Hadsell."<B>Learning to Navigate in Cities Without a Map</B>", 2018.
  
 <br>
